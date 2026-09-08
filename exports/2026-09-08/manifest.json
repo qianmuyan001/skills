@@ -1,0 +1,4431 @@
+{
+  "date": "2026-09-08",
+  "repository": "qianmuyan001/skills",
+  "counts": {
+    "personal": 99,
+    "system": 6,
+    "plugins": 404
+  },
+  "skill_files": 509,
+  "unique_skill_documents": 503,
+  "bundles": [
+    {
+      "source": "~/.codex/skills/animate",
+      "path": "personal/skills/animate",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "569db285e5df57b1d421ce1e172ff79c5fc8c618deaca0356215666ea51b4717"
+    },
+    {
+      "source": "~/.codex/skills/animation-vocabulary",
+      "path": "personal/skills/animation-vocabulary",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "f13610a3a0352c2d5a5033962753551b5ff6e1d52f02b1801947c098ae6f234e"
+    },
+    {
+      "source": "~/.codex/skills/anysearch",
+      "path": "personal/skills/anysearch",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "d3d271a010128b62c92223913eb86898a0a1d09c421d79672121c50ca8ef5c97"
+    },
+    {
+      "source": "~/.codex/skills/apple-design",
+      "path": "personal/skills/apple-design",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "2309f0c6a47e839c716ca42c4d25a7cfda9879df1819874729ff5bbf1c938dca"
+    },
+    {
+      "source": "~/.codex/skills/ask-matt",
+      "path": "personal/skills/ask-matt",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "66f001d71ca0ee8c0751d3c5d97a8b6d079faa311cfc82c9318fc82edafc7468"
+    },
+    {
+      "source": "~/.codex/skills/brandkit",
+      "path": "personal/skills/brandkit",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "236df8e0989b9615bbd47466ed7441d3cc47ac2dfb17061ded40b28bd16863f4"
+    },
+    {
+      "source": "~/.codex/skills/brutalist-skill",
+      "path": "personal/skills/brutalist-skill",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "9595115b0fe53ae314bce11451df4e3f5134a3e46257b76c22dfa6dddeb60748"
+    },
+    {
+      "source": "~/.codex/skills/cangjie-skill",
+      "path": "personal/skills/cangjie-skill",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "c61e6ab28ef2ef8e3034e420fcec239cb877215a1ca771ce9657deb4dc055b9d"
+    },
+    {
+      "source": "~/.codex/skills/claude-handoff",
+      "path": "personal/skills/claude-handoff",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "af0d19099cb82dde00464e99a36103d47090ac1ae73d4198504f7e215c0e7c6d"
+    },
+    {
+      "source": "~/.codex/skills/claude-skill-web-clone",
+      "path": "personal/skills/claude-skill-web-clone",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "8658d16cb0c5dff8f6a0558964a498f635c2e5a5d6740f9890d80755d4bea39e"
+    },
+    {
+      "source": "~/.codex/skills/code-review",
+      "path": "personal/skills/code-review",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "cf2240acbb1cfcfdc11aa68e7a7a46e2eb2351f43feadc5dcec4662bd471fbe5"
+    },
+    {
+      "source": "~/.codex/skills/codebase-design",
+      "path": "personal/skills/codebase-design",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "5722da3e900b06ba698134c6bbb22cf05b0e4aa62b20083abfba1bd8ded06be9"
+    },
+    {
+      "source": "~/.codex/skills/competitive-landscape",
+      "path": "personal/skills/competitive-landscape",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "1f48319a3281ca629b24dde78d5d7be647117d022d50e380c929b54458a50d89"
+    },
+    {
+      "source": "~/.codex/skills/competitor-analysis",
+      "path": "personal/skills/competitor-analysis",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "4fc2aa6500680b384e83b4b673a424eaf48f4345df95aab7b80f7e7f9909b68f"
+    },
+    {
+      "source": "~/.codex/skills/deeptutor",
+      "path": "personal/skills/deeptutor",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "5507b9836cf6fc2220a33b86ac513296302e4b018334b45219a32616e013a611"
+    },
+    {
+      "source": "~/.codex/skills/diagnosing-bugs",
+      "path": "personal/skills/diagnosing-bugs",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "0a608ef806acf06e874d29d2cfbb5508027ef8170bc05f6b8d9e1ef240b5f879"
+    },
+    {
+      "source": "~/.codex/skills/domain-modeling",
+      "path": "personal/skills/domain-modeling",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "fd93b033a18012d9166da813c039750694f14c84bd0ed606298e6fe085210f58"
+    },
+    {
+      "source": "~/.codex/skills/emil-design-eng",
+      "path": "personal/skills/emil-design-eng",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "35b30993486deb9b5f5e116c5a66d47f50fc7389feb16d7619dee98f48b1d0cd"
+    },
+    {
+      "source": "~/.codex/skills/find-animation-opportunities",
+      "path": "personal/skills/find-animation-opportunities",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "595d84348e201fb144bceb6912f119f585d069473abf9c123c7b5803813bad8e"
+    },
+    {
+      "source": "~/.codex/skills/frontend-design",
+      "path": "personal/skills/frontend-design",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "e6cfd86e419a2b8239e94ba025b0fba0c7d199c4560c678d2b72d3098153cb18"
+    },
+    {
+      "source": "~/.codex/skills/git-guardrails-claude-code",
+      "path": "personal/skills/git-guardrails-claude-code",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "3d64b385e6b4a21db29d74eda5f63a9a36fa05637e23e6b3fdf08f0b6fec19bf"
+    },
+    {
+      "source": "~/.codex/skills/gpt-tasteskill",
+      "path": "personal/skills/gpt-tasteskill",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "2c2b6ee5b68110298b4e750f697fba6c48ca9a4f50c6ffb4f8ef4aac4682d2fa"
+    },
+    {
+      "source": "~/.codex/skills/grill-me",
+      "path": "personal/skills/grill-me",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "eb2880386e9259f4ca51167f518c81cea969850d8f45bd8f79f579dcbbad902e"
+    },
+    {
+      "source": "~/.codex/skills/grill-with-docs",
+      "path": "personal/skills/grill-with-docs",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "8973c3d9463fc9dd708adc36a0f97b01aab4ae7d6a0217c2aa0f0a7ef206b83c"
+    },
+    {
+      "source": "~/.codex/skills/grilling",
+      "path": "personal/skills/grilling",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "6ab7676f85887896c10671e1ab5ac30195c8d036a4d607963407b8b05947f980"
+    },
+    {
+      "source": "~/.codex/skills/hallmark",
+      "path": "personal/skills/hallmark",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "fc965a28acb8d81a0e9ee0143f98e2617738af15ceddd9379c51698818220a8a"
+    },
+    {
+      "source": "~/.codex/skills/handoff",
+      "path": "personal/skills/handoff",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "793887bbd3d0a82fb827cc3642dd4c1147d6a20c0551a0c690f9a49be91e8df1"
+    },
+    {
+      "source": "~/.codex/skills/image-to-code-skill",
+      "path": "personal/skills/image-to-code-skill",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "421f49ca0b41b120e1b756d9a75c0edbc006c5b7678197d0884ad4397d92bc29"
+    },
+    {
+      "source": "~/.codex/skills/imagegen-frontend-mobile",
+      "path": "personal/skills/imagegen-frontend-mobile",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "d51b9552311a6f424e92d5a42366fa61ee2b24b0c05460b8452b9b19828ffc6d"
+    },
+    {
+      "source": "~/.codex/skills/imagegen-frontend-web",
+      "path": "personal/skills/imagegen-frontend-web",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "84254e3c2abf2717d13fecb698ee67741d8b9b230739af5a1033b10a4c437fad"
+    },
+    {
+      "source": "~/.codex/skills/implement",
+      "path": "personal/skills/implement",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "6ccd785bf4cde85cc7bf344960c765d654911c9deac7761d81e811d5a2e8c2dd"
+    },
+    {
+      "source": "~/.codex/skills/improve-animations",
+      "path": "personal/skills/improve-animations",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "cbd5b1338d11ff110700833e4d82392cf16ddb40cbb613388c32384c7a93928c"
+    },
+    {
+      "source": "~/.codex/skills/improve-codebase-architecture",
+      "path": "personal/skills/improve-codebase-architecture",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "5fa61359af399febd2ccd40bb02c340b7d9181542905a816c43e9e6879e1dad5"
+    },
+    {
+      "source": "~/.codex/skills/ios-debugger-agent",
+      "path": "personal/skills/ios-debugger-agent",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "d9b417d96cac46327aeba9c413a2b1be8992df432b1f85793f3f4b3c99560617"
+    },
+    {
+      "source": "~/.codex/skills/ios-simulator-browser",
+      "path": "personal/skills/ios-simulator-browser",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "a74dbfb81cf9bd320b650a7ed2e42eaf6abe13797ea9176d1f6288036891a06b"
+    },
+    {
+      "source": "~/.codex/skills/keyword-clustering",
+      "path": "personal/skills/keyword-clustering",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "5f071eb380561077d2ef400bc8c1fe60cb57eedefffbc7ed367ee111f3c19b28"
+    },
+    {
+      "source": "~/.codex/skills/keyword-research",
+      "path": "personal/skills/keyword-research",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "aa1f6be900b0f4490c6d855e6ca7a695fa59161404abc9b1e4ba01f01f1947eb"
+    },
+    {
+      "source": "~/.codex/skills/link-prospecting",
+      "path": "personal/skills/link-prospecting",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "e84f8adc4cab9b1edead13b6658738f3d047ab7f09d5a6ba7ab1da5484aa1600"
+    },
+    {
+      "source": "~/.codex/skills/local-seo",
+      "path": "personal/skills/local-seo",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "6b7da2454fd15c74237e12035e3bc007e06979677a5d85abf763bb19c4224a25"
+    },
+    {
+      "source": "~/.codex/skills/loop-me",
+      "path": "personal/skills/loop-me",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "496c9cfea8f61163b57f1ef0dd086dbe2b948e8b37f563f223b47e1cef7586ad"
+    },
+    {
+      "source": "~/.codex/skills/migrate-to-shoehorn",
+      "path": "personal/skills/migrate-to-shoehorn",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "d63414eee9e6993c7200061c0c6be414c3dd1e9784b48c17268a0895b2d94f1e"
+    },
+    {
+      "source": "~/.codex/skills/minimalist-skill",
+      "path": "personal/skills/minimalist-skill",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "be58cc25ef7c117f31e8453653537315a19e2272f9509bc4bc5dbaecfa00cba7"
+    },
+    {
+      "source": "~/.codex/skills/motion-design",
+      "path": "personal/skills/motion-design",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "70bd59064329babad682277d282c86701cf584bb1513d80115a6cd46d90b417e"
+    },
+    {
+      "source": "~/.codex/skills/official-document-writing",
+      "path": "personal/skills/official-document-writing",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "d3c595bbe1fbec77bc2bd6a89028be36190e5b2b3645a9dbfae52c0a956b6fba"
+    },
+    {
+      "source": "~/.codex/skills/output-skill",
+      "path": "personal/skills/output-skill",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "50f548ce15399144fa5369663868f13bb20971893e2e3c767ceb6a390c0dec74"
+    },
+    {
+      "source": "~/.codex/skills/pick-ui-library",
+      "path": "personal/skills/pick-ui-library",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "7da895857c907a5c7e744664ed0e5692a54aecf2a914a8cef415536a6aa16668"
+    },
+    {
+      "source": "~/.codex/skills/policy-intel-agent",
+      "path": "personal/skills/policy-intel-agent",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "52e5c4a10beb6541d7cc8cc490b6a38f8d7397596170b72d52894e944cf2aa8e"
+    },
+    {
+      "source": "~/.codex/skills/ponytail",
+      "path": "personal/skills/ponytail",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "d0844e234a09308edb125b72ff617f4adf15799b0580fab3993a6922f7032330"
+    },
+    {
+      "source": "~/.codex/skills/ppt-master",
+      "path": "personal/skills/ppt-master",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "edd9f27e635c892aeac8a0f359b23be354745bb69595a5912d88e666a999c6e5"
+    },
+    {
+      "source": "~/.codex/skills/project-delivery-discipline",
+      "path": "personal/skills/project-delivery-discipline",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "bf5eca52cc3d3523f916ef7a50038cafb25d69b40e981bd9f71ac14b9438ad0b"
+    },
+    {
+      "source": "~/.codex/skills/prototype",
+      "path": "personal/skills/prototype",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "0ac4d1d6d93e58153046a4e429da4f3fd3ac9e2c1bb325796834fea4cbebfa97"
+    },
+    {
+      "source": "~/.codex/skills/redesign-skill",
+      "path": "personal/skills/redesign-skill",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "b0a02958d9559039c6d80c5ffbb22ce23c74acb971480f5063dbe63cdb4d649a"
+    },
+    {
+      "source": "~/.codex/skills/research",
+      "path": "personal/skills/research",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "f942bb9bdc833ce7d046280a6e1af18932406b122b73299502a968ed87e5d9cb"
+    },
+    {
+      "source": "~/.codex/skills/resolving-merge-conflicts",
+      "path": "personal/skills/resolving-merge-conflicts",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "531c4ec7bab28d0ce58fe32659030551a5b08acdfec682d06dee752d2bf5c72d"
+    },
+    {
+      "source": "~/.codex/skills/review-animations",
+      "path": "personal/skills/review-animations",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "29e81177aaa6ecfa060606272d74ee7880b461322d372ad0cb42dd4ec9310a2d"
+    },
+    {
+      "source": "~/.codex/skills/scaffold-exercises",
+      "path": "personal/skills/scaffold-exercises",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "dd0b7adbf3cab45d2c006fd0df6395815085be2d7bebcc21ff0e98db5f6b65d6"
+    },
+    {
+      "source": "~/.codex/skills/seo-audit",
+      "path": "personal/skills/seo-audit",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "8a7c4f78810885df6dc57cf888de4f0bc3c012f8370700af784899b783823d01"
+    },
+    {
+      "source": "~/.codex/skills/seo-coach",
+      "path": "personal/skills/seo-coach",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "f69993ab6e3e2012b441c1585426a56dc5c2a2f0249fb76bca47e96a40cfa313"
+    },
+    {
+      "source": "~/.codex/skills/seo-project-setup",
+      "path": "personal/skills/seo-project-setup",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "149bc08bc0327e552e740d759724d870f205f348fff4ab0b7037549ece105ebd"
+    },
+    {
+      "source": "~/.codex/skills/setup-matt-pocock-skills",
+      "path": "personal/skills/setup-matt-pocock-skills",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "b24ded80f67b626ba05a182655c9e68d19dc1c8443450eda0b14e1438b7bf392"
+    },
+    {
+      "source": "~/.codex/skills/setup-pre-commit",
+      "path": "personal/skills/setup-pre-commit",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "7e42b0f88ae3bc481387c62a5c776f28d6dc1386213d221b09a7308d8eb6d4a7"
+    },
+    {
+      "source": "~/.codex/skills/setup-ts-deep-modules",
+      "path": "personal/skills/setup-ts-deep-modules",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "5e27ee34500d9c24481995de199ff915172ec4e351ede51d2804725ff8caef80"
+    },
+    {
+      "source": "~/.codex/skills/soft-skill",
+      "path": "personal/skills/soft-skill",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "b996cb1f592d6d05184539de8332350d08090ed429ce00530b8af725c42785dc"
+    },
+    {
+      "source": "~/.codex/skills/stitch-skill",
+      "path": "personal/skills/stitch-skill",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "59c2360fb865444fc8f93460d7ef84c105f4df0cc4eaa27b23e3f892c4db8bfd"
+    },
+    {
+      "source": "~/.codex/skills/swiftui-microinteractions",
+      "path": "personal/skills/swiftui-microinteractions",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "a4ad9397b6c8c4b2c341fc2ac08d9e9287daa6ce5e26ee1852288c7bcc815320"
+    },
+    {
+      "source": "~/.codex/skills/taste-skill",
+      "path": "personal/skills/taste-skill",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "08936753b22f0754ac0568fc4ff36482f3aff0b8e922c9eb42a47c7d848a0967"
+    },
+    {
+      "source": "~/.codex/skills/taste-skill-v1",
+      "path": "personal/skills/taste-skill-v1",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "af6793e56b42b5bcd0c261cb49b7e0cd9709833caccc9afd1ab58313089fcb73"
+    },
+    {
+      "source": "~/.codex/skills/tdd",
+      "path": "personal/skills/tdd",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "54e51060ae5a774b3f82d887e5faf881c96c9b07e42047559412338f2a1eecba"
+    },
+    {
+      "source": "~/.codex/skills/teach",
+      "path": "personal/skills/teach",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "af350793f5b810835452c1e71a4c13b622edd471692753a8b944236b9b2edf06"
+    },
+    {
+      "source": "~/.codex/skills/test-t3-app",
+      "path": "personal/skills/test-t3-app",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "ffeef0756c99cb70b6e2e43e7e0fff47a553685a11106fee37d7d36ebfeaba02"
+    },
+    {
+      "source": "~/.codex/skills/test-t3-mobile",
+      "path": "personal/skills/test-t3-mobile",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "b6c22f170a6ee77ed7f20c945ec266ccb8398baf8e911bcb12d9737839e7d0ff"
+    },
+    {
+      "source": "~/.codex/skills/to-questionnaire",
+      "path": "personal/skills/to-questionnaire",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "4d9f78683ed92ad0dfdbd1ac5275160fb6820325b2d073d4ede297895bd8992a"
+    },
+    {
+      "source": "~/.codex/skills/to-spec",
+      "path": "personal/skills/to-spec",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "7c0ac5892441627cbe76e8587d47cbe3adedc61f779df5c9f82d473588503330"
+    },
+    {
+      "source": "~/.codex/skills/to-tickets",
+      "path": "personal/skills/to-tickets",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "6af8d89722922203a8cb7346f9a73028f496be8607366c855e2b21c11d3b9ccb"
+    },
+    {
+      "source": "~/.codex/skills/triage",
+      "path": "personal/skills/triage",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "e1854c6caeae305c4f6d81c13d60467fc551a7b39cb2e4be616fba197c328434"
+    },
+    {
+      "source": "~/.codex/skills/wait-what",
+      "path": "personal/skills/wait-what",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "5b0a66cfc03fed63478700ee3dd73629b2b154a53865166d93cf7bf20dfa185d"
+    },
+    {
+      "source": "~/.codex/skills/watch",
+      "path": "personal/skills/watch",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "b6e0ddd09c6be5f300adbcd43a2c37a48e44fb93c6adced31bb07b89301f16b0"
+    },
+    {
+      "source": "~/.codex/skills/wayfinder",
+      "path": "personal/skills/wayfinder",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "f72f9d0f62eb2b38f2a698283f59f6eb9f65fc80a3d38032bf90d686faa5e262"
+    },
+    {
+      "source": "~/.codex/skills/wizard",
+      "path": "personal/skills/wizard",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "273972972f7a9883e6a5f35a69132ec3e73eb6b8cc0076363c20031a0cc92bf4"
+    },
+    {
+      "source": "~/.codex/skills/writing-beats",
+      "path": "personal/skills/writing-beats",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "cb14faf616976da2f26c8076a81d94f405e33da658a0c4147101b2180db41a23"
+    },
+    {
+      "source": "~/.codex/skills/writing-for-agents",
+      "path": "personal/skills/writing-for-agents",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "dfc57c19e0f7a7e9c371966d765700d74ecae7694377c095095ee94f6fd216b3"
+    },
+    {
+      "source": "~/.codex/skills/writing-fragments",
+      "path": "personal/skills/writing-fragments",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "9ba909999a7abf74b080d4231f61a20fb62d4488f820ae41597b31d610335cf7"
+    },
+    {
+      "source": "~/.codex/skills/writing-shape",
+      "path": "personal/skills/writing-shape",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "8d29be8485435eb3968e893a4a15d8979fe2a2d6d2f4b7571044707ace6676db"
+    },
+    {
+      "source": "~/.agents/skills/animate",
+      "path": "personal/skills/animate",
+      "kind": "personal",
+      "duplicate": true,
+      "sha256": "569db285e5df57b1d421ce1e172ff79c5fc8c618deaca0356215666ea51b4717"
+    },
+    {
+      "source": "~/.agents/skills/animation-vocabulary",
+      "path": "personal/skills/animation-vocabulary",
+      "kind": "personal",
+      "duplicate": true,
+      "sha256": "f13610a3a0352c2d5a5033962753551b5ff6e1d52f02b1801947c098ae6f234e"
+    },
+    {
+      "source": "~/.agents/skills/apple-design",
+      "path": "personal/skills/apple-design",
+      "kind": "personal",
+      "duplicate": true,
+      "sha256": "2309f0c6a47e839c716ca42c4d25a7cfda9879df1819874729ff5bbf1c938dca"
+    },
+    {
+      "source": "~/.agents/skills/emil-design-eng",
+      "path": "personal/skills/emil-design-eng",
+      "kind": "personal",
+      "duplicate": true,
+      "sha256": "35b30993486deb9b5f5e116c5a66d47f50fc7389feb16d7619dee98f48b1d0cd"
+    },
+    {
+      "source": "~/.agents/skills/find-animation-opportunities",
+      "path": "personal/skills/find-animation-opportunities",
+      "kind": "personal",
+      "duplicate": true,
+      "sha256": "595d84348e201fb144bceb6912f119f585d069473abf9c123c7b5803813bad8e"
+    },
+    {
+      "source": "~/.agents/skills/frontend-design",
+      "path": "personal/skills/frontend-design",
+      "kind": "personal",
+      "duplicate": true,
+      "sha256": "e6cfd86e419a2b8239e94ba025b0fba0c7d199c4560c678d2b72d3098153cb18"
+    },
+    {
+      "source": "~/.agents/skills/gh-address-comments",
+      "path": "personal/skills/gh-address-comments",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "9bf17217b3b2e5c3a72fedcccd07a361b1aa893bba52810a598a93ab11ae8386"
+    },
+    {
+      "source": "~/.agents/skills/improve-animations",
+      "path": "personal/skills/improve-animations",
+      "kind": "personal",
+      "duplicate": true,
+      "sha256": "cbd5b1338d11ff110700833e4d82392cf16ddb40cbb613388c32384c7a93928c"
+    },
+    {
+      "source": "~/.agents/skills/microsoft-foundry",
+      "path": "personal/skills/microsoft-foundry",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "dbac27e624fda4a8c43251c205424222eb2560b45023c6c5e5120db6eb66b8bf"
+    },
+    {
+      "source": "~/.agents/skills/motion-design",
+      "path": "personal/skills/motion-design",
+      "kind": "personal",
+      "duplicate": true,
+      "sha256": "70bd59064329babad682277d282c86701cf584bb1513d80115a6cd46d90b417e"
+    },
+    {
+      "source": "~/.agents/skills/pick-ui-library",
+      "path": "personal/variants/agents/pick-ui-library",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "fd9393c360a7f9953d5f24b5ec4befd2834076dd4584d1da9fa2e80aa5e87360"
+    },
+    {
+      "source": "~/.agents/skills/prototype",
+      "path": "personal/variants/agents/prototype",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "f7031adaa8b7e471bc9d9677faac43b452a38edee1f96b7db07c2d99f4ea6652"
+    },
+    {
+      "source": "~/.agents/skills/review-animations",
+      "path": "personal/variants/agents/review-animations",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "6d154de8e52168494e37c5177e30ede67f24dafc2d36cfb6447f5a5d208745f2"
+    },
+    {
+      "source": "~/.agents/skills/swiftui-microinteractions",
+      "path": "personal/skills/swiftui-microinteractions",
+      "kind": "personal",
+      "duplicate": true,
+      "sha256": "a4ad9397b6c8c4b2c341fc2ac08d9e9287daa6ce5e26ee1852288c7bcc815320"
+    },
+    {
+      "source": "~/.claude/skills/animate",
+      "path": "personal/skills/animate",
+      "kind": "personal",
+      "duplicate": true,
+      "sha256": "569db285e5df57b1d421ce1e172ff79c5fc8c618deaca0356215666ea51b4717"
+    },
+    {
+      "source": "~/.claude/skills/animation-vocabulary",
+      "path": "personal/skills/animation-vocabulary",
+      "kind": "personal",
+      "duplicate": true,
+      "sha256": "f13610a3a0352c2d5a5033962753551b5ff6e1d52f02b1801947c098ae6f234e"
+    },
+    {
+      "source": "~/.claude/skills/apple-design",
+      "path": "personal/skills/apple-design",
+      "kind": "personal",
+      "duplicate": true,
+      "sha256": "2309f0c6a47e839c716ca42c4d25a7cfda9879df1819874729ff5bbf1c938dca"
+    },
+    {
+      "source": "~/.claude/skills/emil-design-eng",
+      "path": "personal/skills/emil-design-eng",
+      "kind": "personal",
+      "duplicate": true,
+      "sha256": "35b30993486deb9b5f5e116c5a66d47f50fc7389feb16d7619dee98f48b1d0cd"
+    },
+    {
+      "source": "~/.claude/skills/find-animation-opportunities",
+      "path": "personal/skills/find-animation-opportunities",
+      "kind": "personal",
+      "duplicate": true,
+      "sha256": "595d84348e201fb144bceb6912f119f585d069473abf9c123c7b5803813bad8e"
+    },
+    {
+      "source": "~/.claude/skills/frontend-design",
+      "path": "personal/skills/frontend-design",
+      "kind": "personal",
+      "duplicate": true,
+      "sha256": "e6cfd86e419a2b8239e94ba025b0fba0c7d199c4560c678d2b72d3098153cb18"
+    },
+    {
+      "source": "~/.claude/skills/gh-address-comments",
+      "path": "personal/skills/gh-address-comments",
+      "kind": "personal",
+      "duplicate": true,
+      "sha256": "9bf17217b3b2e5c3a72fedcccd07a361b1aa893bba52810a598a93ab11ae8386"
+    },
+    {
+      "source": "~/.claude/skills/improve-animations",
+      "path": "personal/skills/improve-animations",
+      "kind": "personal",
+      "duplicate": true,
+      "sha256": "cbd5b1338d11ff110700833e4d82392cf16ddb40cbb613388c32384c7a93928c"
+    },
+    {
+      "source": "~/.claude/skills/microsoft-foundry",
+      "path": "personal/variants/claude/microsoft-foundry",
+      "kind": "personal",
+      "duplicate": false,
+      "sha256": "529827a6e7c80bed192034bbe37637218dbbb8cee20b344eb04ab9fcee4e4a56"
+    },
+    {
+      "source": "~/.claude/skills/motion-design",
+      "path": "personal/skills/motion-design",
+      "kind": "personal",
+      "duplicate": true,
+      "sha256": "70bd59064329babad682277d282c86701cf584bb1513d80115a6cd46d90b417e"
+    },
+    {
+      "source": "~/.claude/skills/pick-ui-library",
+      "path": "personal/variants/agents/pick-ui-library",
+      "kind": "personal",
+      "duplicate": true,
+      "sha256": "fd9393c360a7f9953d5f24b5ec4befd2834076dd4584d1da9fa2e80aa5e87360"
+    },
+    {
+      "source": "~/.claude/skills/prototype",
+      "path": "personal/variants/agents/prototype",
+      "kind": "personal",
+      "duplicate": true,
+      "sha256": "f7031adaa8b7e471bc9d9677faac43b452a38edee1f96b7db07c2d99f4ea6652"
+    },
+    {
+      "source": "~/.claude/skills/review-animations",
+      "path": "personal/variants/agents/review-animations",
+      "kind": "personal",
+      "duplicate": true,
+      "sha256": "6d154de8e52168494e37c5177e30ede67f24dafc2d36cfb6447f5a5d208745f2"
+    },
+    {
+      "source": "~/.claude/skills/swiftui-microinteractions",
+      "path": "personal/skills/swiftui-microinteractions",
+      "kind": "personal",
+      "duplicate": true,
+      "sha256": "a4ad9397b6c8c4b2c341fc2ac08d9e9287daa6ce5e26ee1852288c7bcc815320"
+    },
+    {
+      "source": "~/.codex/skills/.system",
+      "path": "system/skills",
+      "kind": "system",
+      "duplicate": false,
+      "sha256": "1d7300acbf99a4ea5584fc13474f44afdc18cd981f1f956ac02fea30636ac416"
+    },
+    {
+      "source": "~/.codex/plugins/cache/ecc/ecc/2.2.1/skills",
+      "path": "plugins/ecc/ecc/2.2.1/skills",
+      "kind": "plugin",
+      "duplicate": false,
+      "sha256": "4f0a9697a97dc9f36482ba642d445cb34dfc12d4b7d470fe155e272bd637a099"
+    },
+    {
+      "source": "~/.codex/plugins/cache/ecc/ecc/2.2.1/.codex-plugin/migrated-command-skills",
+      "path": "plugins/ecc/ecc/2.2.1/.codex-plugin/migrated-command-skills",
+      "kind": "plugin",
+      "duplicate": false,
+      "sha256": "ff17d4bb3790dd3fe40a098a1a3db9469c0a0445c88bb89ac20882b42ec2a48d"
+    },
+    {
+      "source": "~/.codex/plugins/cache/mrexodia/ida-pro-mcp/0.1.0/skills",
+      "path": "plugins/mrexodia/ida-pro-mcp/0.1.0/skills",
+      "kind": "plugin",
+      "duplicate": false,
+      "sha256": "4f2469e76d88e1d93033e62747018a2bd2944858326816049a169fe0a9257a81"
+    },
+    {
+      "source": "~/.codex/plugins/cache/openai-bundled/computer-history/1.0.1000926/skills",
+      "path": "plugins/openai-bundled/computer-history/1.0.1000926/skills",
+      "kind": "plugin",
+      "duplicate": false,
+      "sha256": "e7d90dc8fb065cb5522eeb016687dd8e750472799a95414347cdc62bfd7ccf0c"
+    },
+    {
+      "source": "~/.codex/plugins/cache/openai-bundled/sites/0.1.57/skills",
+      "path": "plugins/openai-bundled/sites/0.1.57/skills",
+      "kind": "plugin",
+      "duplicate": false,
+      "sha256": "a05939e815c1dd4a3660248736b76554150d472e475496d2bb1111bcabfda20c"
+    },
+    {
+      "source": "~/.codex/plugins/cache/openai-bundled/visualize/1.0.29/skills",
+      "path": "plugins/openai-bundled/visualize/1.0.29/skills",
+      "kind": "plugin",
+      "duplicate": false,
+      "sha256": "a109241693c91deaa4e54e78616812a92c5e3047c2bc09c18143760ff07104c5"
+    },
+    {
+      "source": "~/.codex/plugins/cache/openai-curated/gmail/11c74d6b/skills",
+      "path": "plugins/openai-curated/gmail/11c74d6b/skills",
+      "kind": "plugin",
+      "duplicate": false,
+      "sha256": "ed3868c89a53075a6b979707a37170178057998371e6d6bb88d49363ad9852d6"
+    },
+    {
+      "source": "~/.codex/plugins/cache/openai-curated/google-drive/11c74d6b/skills",
+      "path": "plugins/openai-curated/google-drive/11c74d6b/skills",
+      "kind": "plugin",
+      "duplicate": false,
+      "sha256": "a6951e9c531793646e15a25bbc24fcb111e52d2d589b03ee0c82a67bb51090d7"
+    },
+    {
+      "source": "~/.codex/plugins/cache/openai-curated-remote/app-69312da8e4dc81919370cb86fd172b6c/8.0.0/skills",
+      "path": "plugins/openai-curated-remote/app-69312da8e4dc81919370cb86fd172b6c/8.0.0/skills",
+      "kind": "plugin",
+      "duplicate": false,
+      "sha256": "186408c5755d5caee4dad7acada923e589d00f43844facbca22c1db9cfd9fedd"
+    },
+    {
+      "source": "~/.codex/plugins/cache/openai-curated-remote/data-analytics/0.2.10-13ceeea1f599/skills",
+      "path": "plugins/openai-curated-remote/data-analytics/0.2.10-13ceeea1f599/skills",
+      "kind": "plugin",
+      "duplicate": false,
+      "sha256": "ebda74b8cd7f01ae93014e8ca5df9b110e4abf131dde590d689515729fe3e750"
+    },
+    {
+      "source": "~/.codex/plugins/cache/openai-curated-remote/deep-research-work/0.1.14/skills",
+      "path": "plugins/openai-curated-remote/deep-research-work/0.1.14/skills",
+      "kind": "plugin",
+      "duplicate": false,
+      "sha256": "5f57f793c8b348a11c289f0a137260b1f7e08f1fe1dafa26609734120e2c987b"
+    },
+    {
+      "source": "~/.codex/plugins/cache/openai-curated-remote/google-drive/0.1.16/skills",
+      "path": "plugins/openai-curated-remote/google-drive/0.1.16/skills",
+      "kind": "plugin",
+      "duplicate": false,
+      "sha256": "e91451695e45354ec67327f99d5df2a3f1314d4b229414999a5a67890082c966"
+    },
+    {
+      "source": "~/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills",
+      "path": "plugins/openai-curated-remote/openai-templates/0.1.1/skills",
+      "kind": "plugin",
+      "duplicate": false,
+      "sha256": "c2226c80843fee16550e3f99435b7284190a6e50c45c28c075669349962c6179"
+    },
+    {
+      "source": "~/.codex/plugins/cache/openai-curated-remote/plugin-management/0.1.0/skills",
+      "path": "plugins/openai-curated-remote/plugin-management/0.1.0/skills",
+      "kind": "plugin",
+      "duplicate": false,
+      "sha256": "01370f502049e5e1e5ea6f99bf0bf60a87923d2f2b5da4ee1d7657feb7545d92"
+    },
+    {
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/documents/26.905.11957/skills",
+      "path": "plugins/openai-primary-runtime/documents/26.905.11957/skills",
+      "kind": "plugin",
+      "duplicate": false,
+      "sha256": "b84896a13a5629f17eaf92470956f044c3231f6f6f58e095d90b3055783fecb5"
+    },
+    {
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/pdf/26.905.11957/skills",
+      "path": "plugins/openai-primary-runtime/pdf/26.905.11957/skills",
+      "kind": "plugin",
+      "duplicate": false,
+      "sha256": "f2ca64d1e6916fed94d4a0a3cfab5f1b8dbf215c3b691730014021d5265d63fb"
+    },
+    {
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/presentations/26.905.11957/skills",
+      "path": "plugins/openai-primary-runtime/presentations/26.905.11957/skills",
+      "kind": "plugin",
+      "duplicate": false,
+      "sha256": "a2abd63ee0b859e87b8375be814c260b0be4c785421b5ad240f57ba1b265507a"
+    },
+    {
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/spreadsheets/26.905.11957/skills",
+      "path": "plugins/openai-primary-runtime/spreadsheets/26.905.11957/skills",
+      "kind": "plugin",
+      "duplicate": false,
+      "sha256": "4705c70558ce46f6ad7c6fdb6401839d76b8d47e643370177ff1683ed2eac35d"
+    },
+    {
+      "source": "~/.codex/plugins/cache/openai-primary-runtime/template-creator/26.905.11957/skills",
+      "path": "plugins/openai-primary-runtime/template-creator/26.905.11957/skills",
+      "kind": "plugin",
+      "duplicate": false,
+      "sha256": "013d69947fd59a66e13213ce8834f72c876d42109df1019789b95f921f1a37e3"
+    },
+    {
+      "source": "~/.codex/plugins/cache/superpowers-dev/superpowers/6.3.0/skills",
+      "path": "plugins/superpowers-dev/superpowers/6.3.0/skills",
+      "kind": "plugin",
+      "duplicate": false,
+      "sha256": "c654bf9279cba413f8ea4ef5a1c28af19ae8fb58bb0be29579a767e23e297658"
+    }
+  ],
+  "skills": [
+    {
+      "name": "animate",
+      "path": "personal/skills/animate/SKILL.md",
+      "sha256": "2a99870e61971553c0af3185a194c0e557f33aaa81e0422ca2fcec52195a4341"
+    },
+    {
+      "name": "animation-vocabulary",
+      "path": "personal/skills/animation-vocabulary/SKILL.md",
+      "sha256": "d718b48fe3c7898804d588f050a2e266d82c9f5ef51da256c8cb8b5951527757"
+    },
+    {
+      "name": "anysearch",
+      "path": "personal/skills/anysearch/SKILL.md",
+      "sha256": "54702f6066dc76cb2b3c04ba556404e6113b1cdcf0f63120ef3306343f9ab25e"
+    },
+    {
+      "name": "apple-design",
+      "path": "personal/skills/apple-design/SKILL.md",
+      "sha256": "11840b24a11d7f94f39c6aaab074750ae4e4de4ef54ee4b1dd97e16ebd485e61"
+    },
+    {
+      "name": "ask-matt",
+      "path": "personal/skills/ask-matt/SKILL.md",
+      "sha256": "b25d86fb36b1d294eeead5d7db529f86135f9671f2afcd607579a63bb2213769"
+    },
+    {
+      "name": "brandkit",
+      "path": "personal/skills/brandkit/SKILL.md",
+      "sha256": "b0c4837e1bd140ca816ae54948754ddd2ac1e2a4d3619363777a80caf00b2ede"
+    },
+    {
+      "name": "industrial-brutalist-ui",
+      "path": "personal/skills/brutalist-skill/SKILL.md",
+      "sha256": "fffbaac8597f07679e9d87145533567658aedba3b5eca6f16a7075a333048caa"
+    },
+    {
+      "name": "cangjie-skill",
+      "path": "personal/skills/cangjie-skill/SKILL.md",
+      "sha256": "bd2be12615967a5f3b56e9f6b1c9214f20c6b4328107c51ec4addb0db751527a"
+    },
+    {
+      "name": "claude-handoff",
+      "path": "personal/skills/claude-handoff/SKILL.md",
+      "sha256": "6738e8b7c7899ea0038fb7a5c859ca1b90c7b1eb40123dcdbe94c51b5b119f12"
+    },
+    {
+      "name": "web-clone",
+      "path": "personal/skills/claude-skill-web-clone/SKILL.md",
+      "sha256": "6c7ef7c17e3f2e4873ee595dbfbbdef7ec245b1d8d9b5873b1f89404f7c79eb2"
+    },
+    {
+      "name": "code-review",
+      "path": "personal/skills/code-review/SKILL.md",
+      "sha256": "47f4e52c21694def9c7c11cbfbf891ca35eac7a93e395797515be3c8a409ae50"
+    },
+    {
+      "name": "codebase-design",
+      "path": "personal/skills/codebase-design/SKILL.md",
+      "sha256": "2c20617f87ec8af6a434859f381b2f061a69b530444e74eb39e78bb016a6d1e2"
+    },
+    {
+      "name": "competitive-landscape",
+      "path": "personal/skills/competitive-landscape/SKILL.md",
+      "sha256": "51dd7405ba6476c887c2ab0e3b7420e831b9f5bf3d453fa145c3b5aadab7b81d"
+    },
+    {
+      "name": "competitor-analysis",
+      "path": "personal/skills/competitor-analysis/SKILL.md",
+      "sha256": "c27520abd2cbf2cc7967b90a8c18b6b3832fabe1bba1bdbbcea1c2e8edd37d09"
+    },
+    {
+      "name": "deeptutor",
+      "path": "personal/skills/deeptutor/SKILL.md",
+      "sha256": "92628ee175e80eefbf296e91d6986b0d16aa11f3bdeaf982107142903951a3b3"
+    },
+    {
+      "name": "diagnosing-bugs",
+      "path": "personal/skills/diagnosing-bugs/SKILL.md",
+      "sha256": "77f3cf31bc99b2f49af943222526531fcc9fc41d047626d3640e875e85af3e84"
+    },
+    {
+      "name": "domain-modeling",
+      "path": "personal/skills/domain-modeling/SKILL.md",
+      "sha256": "327a2b50620e2fd70abc6893cd6965e76b20f8d0adb0dc2c8d5eb3845efb643e"
+    },
+    {
+      "name": "emil-design-eng",
+      "path": "personal/skills/emil-design-eng/SKILL.md",
+      "sha256": "e71de849347050c2c573c1cf24d742d5a13459557ecffa6e562f08006f46b5b7"
+    },
+    {
+      "name": "find-animation-opportunities",
+      "path": "personal/skills/find-animation-opportunities/SKILL.md",
+      "sha256": "91c1243164057fbf824088d12faea937878a757a7ac653e8288b775e8b27b882"
+    },
+    {
+      "name": "frontend-design",
+      "path": "personal/skills/frontend-design/SKILL.md",
+      "sha256": "1608ea77fbb6fc30d13a97d12cfa8ebf31358d40f0dd97beed24829d6b3f45dd"
+    },
+    {
+      "name": "gh-address-comments",
+      "path": "personal/skills/gh-address-comments/SKILL.md",
+      "sha256": "77389eefd3fb6584210668ca8e43f4b8de87e7722ddd953474bc9e24cdfaaedd"
+    },
+    {
+      "name": "git-guardrails-claude-code",
+      "path": "personal/skills/git-guardrails-claude-code/SKILL.md",
+      "sha256": "69b291d655626a01602b998a1836fcb93c058ede68dfafddfd71e87f17074764"
+    },
+    {
+      "name": "gpt-taste",
+      "path": "personal/skills/gpt-tasteskill/SKILL.md",
+      "sha256": "2e64c269953f2656c21bf5a0fa6b4568e82fe0c72b36e8f84758e090349966a5"
+    },
+    {
+      "name": "grill-me",
+      "path": "personal/skills/grill-me/SKILL.md",
+      "sha256": "caaf8b8de1684f96e26b28f3c29189db5c89cce4b73e1c93d86164f66ef88637"
+    },
+    {
+      "name": "grill-with-docs",
+      "path": "personal/skills/grill-with-docs/SKILL.md",
+      "sha256": "7de372c13488f1ee96cc11cd8907b56b6809cc93eef776eeddd37de6b6cbe3fe"
+    },
+    {
+      "name": "grilling",
+      "path": "personal/skills/grilling/SKILL.md",
+      "sha256": "10ff989e7498b23b5acb49d5048f11dcd906757d2f79c5cdf8a00001381296f2"
+    },
+    {
+      "name": "hallmark",
+      "path": "personal/skills/hallmark/SKILL.md",
+      "sha256": "59469635bbbd21acddbc664d95e8d97147f454b2d8f4a0a89c7d2c5afbe67577"
+    },
+    {
+      "name": "handoff",
+      "path": "personal/skills/handoff/SKILL.md",
+      "sha256": "7c62de979fdc7ac32fb5ddb2146156c917f80ee070d30fadc9d40343c4b6ed25"
+    },
+    {
+      "name": "image-to-code",
+      "path": "personal/skills/image-to-code-skill/SKILL.md",
+      "sha256": "4c060a8064a8b13380bc2ef3d6e6a1d0b1e316aa093cd9807d0ce9e4eeb037fa"
+    },
+    {
+      "name": "imagegen-frontend-mobile",
+      "path": "personal/skills/imagegen-frontend-mobile/SKILL.md",
+      "sha256": "8a33389979f3074fa0926678e266ad2eb9234624472254469fc1ad916b9caa24"
+    },
+    {
+      "name": "imagegen-frontend-web",
+      "path": "personal/skills/imagegen-frontend-web/SKILL.md",
+      "sha256": "6b5c2256522fdba1e3313eafa3d743b960a7b13ec029d3e6586e04b23327c1f8"
+    },
+    {
+      "name": "implement",
+      "path": "personal/skills/implement/SKILL.md",
+      "sha256": "6d3fd9e83b8f36e5213854779db49b256a457a7ebb4a503e53fa7dcff696adc3"
+    },
+    {
+      "name": "improve-animations",
+      "path": "personal/skills/improve-animations/SKILL.md",
+      "sha256": "68f17bbc4671593d2f43dba26a679243e2153ba5f26965fb7d59df52842534ff"
+    },
+    {
+      "name": "improve-codebase-architecture",
+      "path": "personal/skills/improve-codebase-architecture/SKILL.md",
+      "sha256": "d1ac25511a936ff4250a48dbcefda363837d6bb9321b3cba73df99fa37270a75"
+    },
+    {
+      "name": "ios-debugger-agent",
+      "path": "personal/skills/ios-debugger-agent/SKILL.md",
+      "sha256": "2f6dcfc249267c826b007bfee0b7711adf99e33472001b817c90007e43e46ef2"
+    },
+    {
+      "name": "ios-simulator-browser",
+      "path": "personal/skills/ios-simulator-browser/SKILL.md",
+      "sha256": "197a3dd41e24d7fea48823a0866caaf3be4bea6069730525cf2f664673dcd456"
+    },
+    {
+      "name": "keyword-clustering",
+      "path": "personal/skills/keyword-clustering/SKILL.md",
+      "sha256": "f4a53947527cf8d3f64eca0ab1e45b2b376b62e0111dd90106ca0304a484f1a6"
+    },
+    {
+      "name": "keyword-research",
+      "path": "personal/skills/keyword-research/SKILL.md",
+      "sha256": "0c46df7927bbb2e9b782624a48ba586fed6f58e652abc0a410cdb916af4e5ec5"
+    },
+    {
+      "name": "link-prospecting",
+      "path": "personal/skills/link-prospecting/SKILL.md",
+      "sha256": "b366f7f3d8d9bbfacadca339032987ddd64c2c5bfc8ab80daaa58fafaffc7442"
+    },
+    {
+      "name": "local-seo",
+      "path": "personal/skills/local-seo/SKILL.md",
+      "sha256": "f66da59563a822f5b715ddc868909c333a087b4227bcba7dbfc94d96bf62b3e8"
+    },
+    {
+      "name": "loop-me",
+      "path": "personal/skills/loop-me/SKILL.md",
+      "sha256": "e44d1cc3e760fb86ac42964c2a5f1fcac511715db50fb375f3f7be814de1eaa7"
+    },
+    {
+      "name": "microsoft-foundry",
+      "path": "personal/skills/microsoft-foundry/SKILL.md",
+      "sha256": "46718ed889e7ea84593a2f6d4213ab8a442e6f2d400491c4bd032df9e77296d5"
+    },
+    {
+      "name": "finetuning",
+      "path": "personal/skills/microsoft-foundry/finetuning/SKILL.md",
+      "sha256": "7a17789cb61e026a52071564b00624f2880e7b35c89fec9aa06c0dfcc8fe1e31"
+    },
+    {
+      "name": "deploy-model",
+      "path": "personal/skills/microsoft-foundry/models/deploy-model/SKILL.md",
+      "sha256": "ae0de869fdaee1a6b6b04582e723a2363d482d85a5c119f1963a2c36eff5667c"
+    },
+    {
+      "name": "capacity",
+      "path": "personal/skills/microsoft-foundry/models/deploy-model/capacity/SKILL.md",
+      "sha256": "91b3ce958de44f728453572747504e8c9146f119892aa690546fd19f8d96a344"
+    },
+    {
+      "name": "customize",
+      "path": "personal/skills/microsoft-foundry/models/deploy-model/customize/SKILL.md",
+      "sha256": "d0a25090ffc3e139ff2eaeca5f814a83aa61d596571d267f6a7ad534c153ba68"
+    },
+    {
+      "name": "preset",
+      "path": "personal/skills/microsoft-foundry/models/deploy-model/preset/SKILL.md",
+      "sha256": "f4e44bf4eac06f75f17f5e3fc40e5a85a2cf23b27fcc99bf76c5df9d6e48eb5b"
+    },
+    {
+      "name": "migrate-to-shoehorn",
+      "path": "personal/skills/migrate-to-shoehorn/SKILL.md",
+      "sha256": "de4da4c11d924fac79c924b2ee3d2db4a5cb98386eb490a599119463d036ae72"
+    },
+    {
+      "name": "minimalist-ui",
+      "path": "personal/skills/minimalist-skill/SKILL.md",
+      "sha256": "36bc7328f085405f43b476938e62460fa573bf7e984e949e072bcf014831a44c"
+    },
+    {
+      "name": "motion-design",
+      "path": "personal/skills/motion-design/SKILL.md",
+      "sha256": "8729ecbc7e5736c1295baaa8ba0384bb4b1aac9cf91b83fcdc64d9548a57bb19"
+    },
+    {
+      "name": "official-document-writing",
+      "path": "personal/skills/official-document-writing/SKILL.md",
+      "sha256": "4c09e39b94e6581249108c8d6301f155ede509c576442a478256f0bdc132fb5c"
+    },
+    {
+      "name": "full-output-enforcement",
+      "path": "personal/skills/output-skill/SKILL.md",
+      "sha256": "e5bf48b1ae561511439cf71672209a10a88cee0968cc925909ff861dfa0a96a7"
+    },
+    {
+      "name": "pick-ui-library",
+      "path": "personal/skills/pick-ui-library/SKILL.md",
+      "sha256": "dfbedd8658b316abf195e64af269d95b1c196905b31c40dea259d05d2bd43193"
+    },
+    {
+      "name": "policy-intel-agent",
+      "path": "personal/skills/policy-intel-agent/SKILL.md",
+      "sha256": "71173aba653f605beac5b39bcd41377964c566105666e7bf96c72e1c099f27b0"
+    },
+    {
+      "name": "ponytail",
+      "path": "personal/skills/ponytail/SKILL.md",
+      "sha256": "1316a2f3f95741d2300b116fe0c2d81ce4a9568656ed0a62643f54aaf09957f2"
+    },
+    {
+      "name": "ppt-master",
+      "path": "personal/skills/ppt-master/SKILL.md",
+      "sha256": "9f837a9b1b106868c1c4ac56ba8ecdf4a4bf788b26c5ab16751045cc9192794e"
+    },
+    {
+      "name": "project-delivery-discipline",
+      "path": "personal/skills/project-delivery-discipline/SKILL.md",
+      "sha256": "6d294c749f5273f83446e94d45dbff69b9e8caa92ab324d9de1f865f9c963fda"
+    },
+    {
+      "name": "prototype",
+      "path": "personal/skills/prototype/SKILL.md",
+      "sha256": "27b8d132aa5de4922fc3784b7af0412ee7d655e0904a94f0249c7fe46a99b668"
+    },
+    {
+      "name": "redesign-existing-projects",
+      "path": "personal/skills/redesign-skill/SKILL.md",
+      "sha256": "98ad3e5b051bfb71b2795f7e8a6aa0d32b51ee095606c098a4b2822ac07926c9"
+    },
+    {
+      "name": "research",
+      "path": "personal/skills/research/SKILL.md",
+      "sha256": "985569f15739c713d6784887c3d186d4ef9ac85bec5ad9c068d25bf0739928e4"
+    },
+    {
+      "name": "resolving-merge-conflicts",
+      "path": "personal/skills/resolving-merge-conflicts/SKILL.md",
+      "sha256": "9d8114f8ef0b31f535a265fc05c364bd8cf2e2895a830040e06c22acb11f54b0"
+    },
+    {
+      "name": "review-animations",
+      "path": "personal/skills/review-animations/SKILL.md",
+      "sha256": "234065707f8bccb673a3f481d11e529bee0756f7a8c8f34846c511ac4c53769c"
+    },
+    {
+      "name": "scaffold-exercises",
+      "path": "personal/skills/scaffold-exercises/SKILL.md",
+      "sha256": "75f5c9d771606fb9762f16522efc954df11c324f87148d8ff069bce166257de9"
+    },
+    {
+      "name": "seo-audit",
+      "path": "personal/skills/seo-audit/SKILL.md",
+      "sha256": "66c406d371adecec734152cbcd14a1a83e41082ed5a075a6f66b5c947f2b869b"
+    },
+    {
+      "name": "seo-coach",
+      "path": "personal/skills/seo-coach/SKILL.md",
+      "sha256": "78e59a51ebfb59acc51fd0c0b5a301947bf656e0b26afd4f4a00a07063b32f61"
+    },
+    {
+      "name": "seo-project-setup",
+      "path": "personal/skills/seo-project-setup/SKILL.md",
+      "sha256": "3dd3e0dc904b7897eb6ed7b741ccaa0a8422520d23a44c4dc303457e2050f687"
+    },
+    {
+      "name": "setup-matt-pocock-skills",
+      "path": "personal/skills/setup-matt-pocock-skills/SKILL.md",
+      "sha256": "2bcd89e97777cdb705914424e39c97d5db524c8eb4eafac8120778a07774f0ec"
+    },
+    {
+      "name": "setup-pre-commit",
+      "path": "personal/skills/setup-pre-commit/SKILL.md",
+      "sha256": "c9819d7f1e3b198064edc1faa3154224ed67395e9f07f5d3cea4b67cf0a11a98"
+    },
+    {
+      "name": "setup-ts-deep-modules",
+      "path": "personal/skills/setup-ts-deep-modules/SKILL.md",
+      "sha256": "29acca66ac99d4532e2a6f0370d8125d7cba1e87c9ac66573203c75189d3e6c7"
+    },
+    {
+      "name": "high-end-visual-design",
+      "path": "personal/skills/soft-skill/SKILL.md",
+      "sha256": "e1e32f5e2d420872c6c7332b53d5ff7721946766b78c4822b424c2d512c8fdbc"
+    },
+    {
+      "name": "stitch-design-taste",
+      "path": "personal/skills/stitch-skill/SKILL.md",
+      "sha256": "46bdb08fee2dded38b6ba0a051230a502d6ac6e4044afd47592cb40c256028b5"
+    },
+    {
+      "name": "swiftui-microinteractions",
+      "path": "personal/skills/swiftui-microinteractions/SKILL.md",
+      "sha256": "0b0a0921945081deab6da57ada701b141bb9c7a7199bd422b5a9035afb11aff4"
+    },
+    {
+      "name": "design-taste-frontend",
+      "path": "personal/skills/taste-skill/SKILL.md",
+      "sha256": "aa194351b246b8b4799099d4ed7b033d29eab6e6e3d58d8d2172978be7b3ec89"
+    },
+    {
+      "name": "design-taste-frontend-v1",
+      "path": "personal/skills/taste-skill-v1/SKILL.md",
+      "sha256": "033d45af1ed23832730642f95f40ab49db7fb5222848489a6c5656144bfc6dae"
+    },
+    {
+      "name": "tdd",
+      "path": "personal/skills/tdd/SKILL.md",
+      "sha256": "cb01f66bebfaa25fa1f88e6b7e769cd9fd9f35b1120b8563749820738814c927"
+    },
+    {
+      "name": "teach",
+      "path": "personal/skills/teach/SKILL.md",
+      "sha256": "a32df9dcdfc0c4fdc1c98e1ed3940c5f56b84c1aa90ff60346f32b8b53915b43"
+    },
+    {
+      "name": "test-t3-app",
+      "path": "personal/skills/test-t3-app/SKILL.md",
+      "sha256": "6e2062ea00e2b5e78d15af52e2e1dc74b797bdc447c94f440e0d97bc03d711bb"
+    },
+    {
+      "name": "test-t3-mobile",
+      "path": "personal/skills/test-t3-mobile/SKILL.md",
+      "sha256": "64e71897265e7c249846b23ade7febec39af813b8d9bbd7c2b5d19a7658fff96"
+    },
+    {
+      "name": "to-questionnaire",
+      "path": "personal/skills/to-questionnaire/SKILL.md",
+      "sha256": "b5eb929842ee0e93d867c5e906d183d350f2f2d149eaeaa86967d94d8eda1d3b"
+    },
+    {
+      "name": "to-spec",
+      "path": "personal/skills/to-spec/SKILL.md",
+      "sha256": "43ad9cf318e5e7d3d1fa360253a37021796dc87a0c2e595ad262661a10f85088"
+    },
+    {
+      "name": "to-tickets",
+      "path": "personal/skills/to-tickets/SKILL.md",
+      "sha256": "5c9fba69845c2519b9b35b9af42ae5142c21f8ca15ac2123dc2722002c8058ae"
+    },
+    {
+      "name": "triage",
+      "path": "personal/skills/triage/SKILL.md",
+      "sha256": "623a2ed692bdc77d2090e2a3dea3b627dd722ad3bbaca0be83aada75292c8fc4"
+    },
+    {
+      "name": "wait-what",
+      "path": "personal/skills/wait-what/SKILL.md",
+      "sha256": "e3f44e3ccbc0e7b62f20ba70b295fc9c9f4aa3f96c77168faee1c71bacbf4215"
+    },
+    {
+      "name": "watch",
+      "path": "personal/skills/watch/SKILL.md",
+      "sha256": "10dc8e56699e99a97f9b29c25881a3b3d94873d42ee6a2b6a84fef4ead6927b2"
+    },
+    {
+      "name": "wayfinder",
+      "path": "personal/skills/wayfinder/SKILL.md",
+      "sha256": "fee6e1d0c50f0e736b4ef8a599060c959afae904c9a97d82c97f049fcc3aa0f1"
+    },
+    {
+      "name": "wizard",
+      "path": "personal/skills/wizard/SKILL.md",
+      "sha256": "bdf31d48211ea559878f95a4f344aeabf8d85897488ba564382bab0b000daac1"
+    },
+    {
+      "name": "writing-beats",
+      "path": "personal/skills/writing-beats/SKILL.md",
+      "sha256": "a96abafa2372eede8267d770138b322d6125da8adaa7ccf0a5e08e4ee13ee71e"
+    },
+    {
+      "name": "writing-for-agents",
+      "path": "personal/skills/writing-for-agents/SKILL.md",
+      "sha256": "551adca942227b44192edba88acd4e8db911f0121ce58ad16944ccf6a896a74a"
+    },
+    {
+      "name": "writing-fragments",
+      "path": "personal/skills/writing-fragments/SKILL.md",
+      "sha256": "298b0edd23df229183630de592ed8aa4289233560f2040691f6eb77caeaad4ea"
+    },
+    {
+      "name": "writing-shape",
+      "path": "personal/skills/writing-shape/SKILL.md",
+      "sha256": "f5e6c57bdd85178ace4a260c92f46da6b64ddee18215b461d875739c68976f72"
+    },
+    {
+      "name": "pick-ui-library",
+      "path": "personal/variants/agents/pick-ui-library/SKILL.md",
+      "sha256": "4b889bd6c08358499ac4a7202b8af71ffbd3485d2468f7b09d0613bbe7b24bf4"
+    },
+    {
+      "name": "prototype",
+      "path": "personal/variants/agents/prototype/SKILL.md",
+      "sha256": "2ad8401c4deaddb54947fb65247f790e7b3d8784e35312bcbedbfb1d59cd89ce"
+    },
+    {
+      "name": "review-animations",
+      "path": "personal/variants/agents/review-animations/SKILL.md",
+      "sha256": "61cf8ac0c4c8e1f63385298c546b16c65ca9aec34abddcd04e821c16712d671d"
+    },
+    {
+      "name": "microsoft-foundry",
+      "path": "personal/variants/claude/microsoft-foundry/SKILL.md",
+      "sha256": "fd32ad1bb1a2a888acc0e0d4eb3e7ed0dab6e113522c3d30916b6331ad961149"
+    },
+    {
+      "name": "finetuning",
+      "path": "personal/variants/claude/microsoft-foundry/finetuning/SKILL.md",
+      "sha256": "7a17789cb61e026a52071564b00624f2880e7b35c89fec9aa06c0dfcc8fe1e31"
+    },
+    {
+      "name": "deploy-model",
+      "path": "personal/variants/claude/microsoft-foundry/models/deploy-model/SKILL.md",
+      "sha256": "ae0de869fdaee1a6b6b04582e723a2363d482d85a5c119f1963a2c36eff5667c"
+    },
+    {
+      "name": "capacity",
+      "path": "personal/variants/claude/microsoft-foundry/models/deploy-model/capacity/SKILL.md",
+      "sha256": "91b3ce958de44f728453572747504e8c9146f119892aa690546fd19f8d96a344"
+    },
+    {
+      "name": "customize",
+      "path": "personal/variants/claude/microsoft-foundry/models/deploy-model/customize/SKILL.md",
+      "sha256": "d0a25090ffc3e139ff2eaeca5f814a83aa61d596571d267f6a7ad534c153ba68"
+    },
+    {
+      "name": "preset",
+      "path": "personal/variants/claude/microsoft-foundry/models/deploy-model/preset/SKILL.md",
+      "sha256": "f4e44bf4eac06f75f17f5e3fc40e5a85a2cf23b27fcc99bf76c5df9d6e48eb5b"
+    },
+    {
+      "name": "source-command-auto-update",
+      "path": "plugins/ecc/ecc/2.2.1/.codex-plugin/migrated-command-skills/source-command-auto-update/SKILL.md",
+      "sha256": "893a1f3b18174796202b283a73d01af3ef6ef83a9bfcf29ccb0a7aa9c5c4e7b8"
+    },
+    {
+      "name": "source-command-build-fix",
+      "path": "plugins/ecc/ecc/2.2.1/.codex-plugin/migrated-command-skills/source-command-build-fix/SKILL.md",
+      "sha256": "dd4403ddae9ff01a466fce241c2b89db6751b2ac54100e17c428fa31b2b00de8"
+    },
+    {
+      "name": "source-command-cpp-review",
+      "path": "plugins/ecc/ecc/2.2.1/.codex-plugin/migrated-command-skills/source-command-cpp-review/SKILL.md",
+      "sha256": "fb17b7164b80bbcf72367c04fef0ea71b7de60653bb85241c033f94f5b680236"
+    },
+    {
+      "name": "source-command-ecc-guide",
+      "path": "plugins/ecc/ecc/2.2.1/.codex-plugin/migrated-command-skills/source-command-ecc-guide/SKILL.md",
+      "sha256": "5433a8a516c6fabc7f6a7295cdb0e7c42147d8509ddaa976220f006fe89c1931"
+    },
+    {
+      "name": "source-command-epic-claim",
+      "path": "plugins/ecc/ecc/2.2.1/.codex-plugin/migrated-command-skills/source-command-epic-claim/SKILL.md",
+      "sha256": "2fa300f2d57495084f696102ee20f6ba1e8fe00840ede40d4846ffb1df678936"
+    },
+    {
+      "name": "source-command-epic-decompose",
+      "path": "plugins/ecc/ecc/2.2.1/.codex-plugin/migrated-command-skills/source-command-epic-decompose/SKILL.md",
+      "sha256": "f4049ba4d83bbc9f3b345c7cdd899da79e257ecec9bc4f3703475c60c523e65f"
+    },
+    {
+      "name": "source-command-epic-publish",
+      "path": "plugins/ecc/ecc/2.2.1/.codex-plugin/migrated-command-skills/source-command-epic-publish/SKILL.md",
+      "sha256": "4940e04ae3b2fe0c127a9195a783ecc427d8611a27abf5b2490a1cd89bccdbf0"
+    },
+    {
+      "name": "source-command-epic-review",
+      "path": "plugins/ecc/ecc/2.2.1/.codex-plugin/migrated-command-skills/source-command-epic-review/SKILL.md",
+      "sha256": "9155cb9beb03b5432cdd503f5e40579eeacaefa9ec120f3f9ee2c4562e73f667"
+    },
+    {
+      "name": "source-command-epic-sync",
+      "path": "plugins/ecc/ecc/2.2.1/.codex-plugin/migrated-command-skills/source-command-epic-sync/SKILL.md",
+      "sha256": "61547f3cbd63fdac6d1c7481a6a0d1455a94cf606348a19715b3231de3051a6d"
+    },
+    {
+      "name": "source-command-epic-unblock",
+      "path": "plugins/ecc/ecc/2.2.1/.codex-plugin/migrated-command-skills/source-command-epic-unblock/SKILL.md",
+      "sha256": "6ebd81e33ce973bea1a258a62016774996045cade79c0ffd6f9edc819ffd3ae5"
+    },
+    {
+      "name": "source-command-epic-validate",
+      "path": "plugins/ecc/ecc/2.2.1/.codex-plugin/migrated-command-skills/source-command-epic-validate/SKILL.md",
+      "sha256": "c9ae8bb27bb32139a69169d93c7e52fecc9b13bd713406f0022b8c1c260f7faa"
+    },
+    {
+      "name": "source-command-fastapi-review",
+      "path": "plugins/ecc/ecc/2.2.1/.codex-plugin/migrated-command-skills/source-command-fastapi-review/SKILL.md",
+      "sha256": "35589836c63c4664d06634de966081ea130e4058da6551fbdae7d4244f464e11"
+    },
+    {
+      "name": "source-command-feature-dev",
+      "path": "plugins/ecc/ecc/2.2.1/.codex-plugin/migrated-command-skills/source-command-feature-dev/SKILL.md",
+      "sha256": "02b1c23b2b2e6ce0793e021a789c9c59e950e653289e58bb638dc29f7921ede3"
+    },
+    {
+      "name": "source-command-go-build",
+      "path": "plugins/ecc/ecc/2.2.1/.codex-plugin/migrated-command-skills/source-command-go-build/SKILL.md",
+      "sha256": "282fc293d49f76222ed227001a7f3138592888bdf3193893cb489185becd60b5"
+    },
+    {
+      "name": "source-command-go-review",
+      "path": "plugins/ecc/ecc/2.2.1/.codex-plugin/migrated-command-skills/source-command-go-review/SKILL.md",
+      "sha256": "3dd195fbad76a131da20dec966b9e8b35aa84c925f1a15efdd57d26720cda617"
+    },
+    {
+      "name": "source-command-gradle-build",
+      "path": "plugins/ecc/ecc/2.2.1/.codex-plugin/migrated-command-skills/source-command-gradle-build/SKILL.md",
+      "sha256": "46c0a8176e821e313bf8cf0bb4db549ae8fc4a4047706c9ac6e4bf189c103ccf"
+    },
+    {
+      "name": "source-command-hookify",
+      "path": "plugins/ecc/ecc/2.2.1/.codex-plugin/migrated-command-skills/source-command-hookify/SKILL.md",
+      "sha256": "65d51a189e98af8acd5a218f5cb1d4112d1a50c8f28d4108560e0fa709714128"
+    },
+    {
+      "name": "source-command-hookify-configure",
+      "path": "plugins/ecc/ecc/2.2.1/.codex-plugin/migrated-command-skills/source-command-hookify-configure/SKILL.md",
+      "sha256": "e51fb1b8239045ea72891d58728bc61fc500c2a4e1c89c74c6742d4607e1b802"
+    },
+    {
+      "name": "source-command-hookify-help",
+      "path": "plugins/ecc/ecc/2.2.1/.codex-plugin/migrated-command-skills/source-command-hookify-help/SKILL.md",
+      "sha256": "ef2319a824993683f2c069d9b5f37312d0a5054ca6ab8048dcc11f457ee6eef3"
+    },
+    {
+      "name": "source-command-hookify-list",
+      "path": "plugins/ecc/ecc/2.2.1/.codex-plugin/migrated-command-skills/source-command-hookify-list/SKILL.md",
+      "sha256": "9e9216d86786960140ea51e4881fa22b04140cf6959fc6f138caa439f9c08fdc"
+    },
+    {
+      "name": "source-command-instinct-export",
+      "path": "plugins/ecc/ecc/2.2.1/.codex-plugin/migrated-command-skills/source-command-instinct-export/SKILL.md",
+      "sha256": "1cc64c7e16cd2e26dabf5dc5de43a53ecbe1fa78cb1ea670118094aed62d6fd1"
+    },
+    {
+      "name": "source-command-instinct-import",
+      "path": "plugins/ecc/ecc/2.2.1/.codex-plugin/migrated-command-skills/source-command-instinct-import/SKILL.md",
+      "sha256": "b8bb164fa3074871f892b76e4a0dd566a3614df011df154caa6a69fe25f1e8ab"
+    },
+    {
+      "name": "source-command-instinct-status",
+      "path": "plugins/ecc/ecc/2.2.1/.codex-plugin/migrated-command-skills/source-command-instinct-status/SKILL.md",
+      "sha256": "28a795913974d3777e6189d6d04477a4d9aad77caf06009b585509663b3589fc"
+    },
+    {
+      "name": "source-command-jira",
+      "path": "plugins/ecc/ecc/2.2.1/.codex-plugin/migrated-command-skills/source-command-jira/SKILL.md",
+      "sha256": "5d865e63bb0ef9226b3f0830a7d7f8f78c72c9478a662aa8d8be000eb0b84076"
+    },
+    {
+      "name": "source-command-learn",
+      "path": "plugins/ecc/ecc/2.2.1/.codex-plugin/migrated-command-skills/source-command-learn/SKILL.md",
+      "sha256": "95fcf9d9eb341cb947f60c71e6dc68de5d4320f9cc02182f9d6c10272b944e13"
+    },
+    {
+      "name": "source-command-plan-canvas",
+      "path": "plugins/ecc/ecc/2.2.1/.codex-plugin/migrated-command-skills/source-command-plan-canvas/SKILL.md",
+      "sha256": "47af1a8b3f2ec0b8b58d879684b19d15d2483d934d04f48b05bb742f831a77d5"
+    },
+    {
+      "name": "source-command-projects",
+      "path": "plugins/ecc/ecc/2.2.1/.codex-plugin/migrated-command-skills/source-command-projects/SKILL.md",
+      "sha256": "8d2a9a7f493e6a2167dea785e7e74639334306168c2b37e0bcfc97b787291173"
+    },
+    {
+      "name": "source-command-promote",
+      "path": "plugins/ecc/ecc/2.2.1/.codex-plugin/migrated-command-skills/source-command-promote/SKILL.md",
+      "sha256": "1d17cd246dce0dcd2e91f8036992b2cb4d25151322c9d163894e7b364b9da6fc"
+    },
+    {
+      "name": "source-command-prune",
+      "path": "plugins/ecc/ecc/2.2.1/.codex-plugin/migrated-command-skills/source-command-prune/SKILL.md",
+      "sha256": "be534b426845b7749ca0c263452ef23eb7754b27b4dcefc4ace950017e1a47c9"
+    },
+    {
+      "name": "source-command-refactor-clean",
+      "path": "plugins/ecc/ecc/2.2.1/.codex-plugin/migrated-command-skills/source-command-refactor-clean/SKILL.md",
+      "sha256": "b6881077db899dfc0b98e3dada39821c89c4f25c24f7812179d42b025551cab5"
+    },
+    {
+      "name": "source-command-review-pr",
+      "path": "plugins/ecc/ecc/2.2.1/.codex-plugin/migrated-command-skills/source-command-review-pr/SKILL.md",
+      "sha256": "59e1bdb19f437cdd94d157d821ea1f728b8357df66a35f37958ae516cd39a820"
+    },
+    {
+      "name": "source-command-setup-pm",
+      "path": "plugins/ecc/ecc/2.2.1/.codex-plugin/migrated-command-skills/source-command-setup-pm/SKILL.md",
+      "sha256": "05df05fc83e0bb847007a9ccced1e2073e4db14bf7820b9d8b8965d971942ed4"
+    },
+    {
+      "name": "source-command-test-coverage",
+      "path": "plugins/ecc/ecc/2.2.1/.codex-plugin/migrated-command-skills/source-command-test-coverage/SKILL.md",
+      "sha256": "19e79c2d982c6815f639860a3623fa891c3835610778b4d8ad62e25261753212"
+    },
+    {
+      "name": "source-command-update-codemaps",
+      "path": "plugins/ecc/ecc/2.2.1/.codex-plugin/migrated-command-skills/source-command-update-codemaps/SKILL.md",
+      "sha256": "44f0c645c0c751c00009fd599216df59b68c0ce2178cf6288924d2da69f22bb9"
+    },
+    {
+      "name": "source-command-update-docs",
+      "path": "plugins/ecc/ecc/2.2.1/.codex-plugin/migrated-command-skills/source-command-update-docs/SKILL.md",
+      "sha256": "cf7fe7dd20dda0c651a2729b9887ebe3324d87afed2164e8ee543943034e5f5c"
+    },
+    {
+      "name": "accessibility",
+      "path": "plugins/ecc/ecc/2.2.1/skills/accessibility/SKILL.md",
+      "sha256": "d8578fe750e7321658450386e2112a46ea1aedca0235fbf97f3db2457e599b3a"
+    },
+    {
+      "name": "agent-architecture-audit",
+      "path": "plugins/ecc/ecc/2.2.1/skills/agent-architecture-audit/SKILL.md",
+      "sha256": "64f57e232c3533877403703bc95b3c75df9de23f657899a306f13c703009ff57"
+    },
+    {
+      "name": "agent-eval",
+      "path": "plugins/ecc/ecc/2.2.1/skills/agent-eval/SKILL.md",
+      "sha256": "57fa683e356b6f5612bc6d7dc101ae39c126e6edf9a48f4ec53afea3e80d7e5d"
+    },
+    {
+      "name": "agent-harness-construction",
+      "path": "plugins/ecc/ecc/2.2.1/skills/agent-harness-construction/SKILL.md",
+      "sha256": "e7fb390a6663b46ea5d3c2876753a5ce32ba3bad1889686b21a42894caa1742d"
+    },
+    {
+      "name": "agent-introspection-debugging",
+      "path": "plugins/ecc/ecc/2.2.1/skills/agent-introspection-debugging/SKILL.md",
+      "sha256": "0cdbfe3c822ff50d21df8cd0e20c72407a6f5658089edc0e96e79a03927cb956"
+    },
+    {
+      "name": "agent-payment-x402",
+      "path": "plugins/ecc/ecc/2.2.1/skills/agent-payment-x402/SKILL.md",
+      "sha256": "78ac50508665d894f1cbf02fe7d121c6ffc5c72cc66d68174db77ffdb30b6b89"
+    },
+    {
+      "name": "agent-self-evaluation",
+      "path": "plugins/ecc/ecc/2.2.1/skills/agent-self-evaluation/SKILL.md",
+      "sha256": "96bb21eb37760f596789f84ec0a5dad4ef92fc2255e35cd7b88dc4234062b8c1"
+    },
+    {
+      "name": "agent-sort",
+      "path": "plugins/ecc/ecc/2.2.1/skills/agent-sort/SKILL.md",
+      "sha256": "5847fc20cf0fd0d00c0c2dbacca03472c5a43af429978cf874dd41ecc144dc53"
+    },
+    {
+      "name": "agentic-engineering",
+      "path": "plugins/ecc/ecc/2.2.1/skills/agentic-engineering/SKILL.md",
+      "sha256": "41c32c20ec97469341f5d83d8beb15f03d1b6f1c40fb1bdf534c50cd9a38cb6f"
+    },
+    {
+      "name": "agentic-os",
+      "path": "plugins/ecc/ecc/2.2.1/skills/agentic-os/SKILL.md",
+      "sha256": "e1d1207353652456ac84a821e5522def1d108677318630af4fd7ac16735b5c04"
+    },
+    {
+      "name": "ai-first-engineering",
+      "path": "plugins/ecc/ecc/2.2.1/skills/ai-first-engineering/SKILL.md",
+      "sha256": "114913bdcb6127392df56d96f7f1312f36c74d69c278dece6d377b9bd92123a5"
+    },
+    {
+      "name": "ai-regression-testing",
+      "path": "plugins/ecc/ecc/2.2.1/skills/ai-regression-testing/SKILL.md",
+      "sha256": "83f2f5c4083af5762dd658f742d4a390eb3a6f969d835f69e8f47efba296c127"
+    },
+    {
+      "name": "android-clean-architecture",
+      "path": "plugins/ecc/ecc/2.2.1/skills/android-clean-architecture/SKILL.md",
+      "sha256": "20cbb9d7778462c549ccd32c830c0004fc7b92cfa009db99900d773373115f12"
+    },
+    {
+      "name": "angular-developer",
+      "path": "plugins/ecc/ecc/2.2.1/skills/angular-developer/SKILL.md",
+      "sha256": "28ee37a8cf63add48fffc7c8676c6368aee35f3042525e79769b5a3d4e01aed1"
+    },
+    {
+      "name": "api-connector-builder",
+      "path": "plugins/ecc/ecc/2.2.1/skills/api-connector-builder/SKILL.md",
+      "sha256": "00a0d01e234f213d343f0040bbebd56e042978768ce5bb7117776a75bd9547e8"
+    },
+    {
+      "name": "api-design",
+      "path": "plugins/ecc/ecc/2.2.1/skills/api-design/SKILL.md",
+      "sha256": "bfae53167acc91caff0ff9ab73a80ee3fd92caccdfa445c88302c3bf95255156"
+    },
+    {
+      "name": "architecture-decision-records",
+      "path": "plugins/ecc/ecc/2.2.1/skills/architecture-decision-records/SKILL.md",
+      "sha256": "525e51b4ed98222cd49ea7d2e42b51a010ecab391b25022a86164258c14b8bb0"
+    },
+    {
+      "name": "article-writing",
+      "path": "plugins/ecc/ecc/2.2.1/skills/article-writing/SKILL.md",
+      "sha256": "4aa61709450a2148ef4036896d870da748e93ad68528bb7679b74f3597ffb021"
+    },
+    {
+      "name": "automation-audit-ops",
+      "path": "plugins/ecc/ecc/2.2.1/skills/automation-audit-ops/SKILL.md",
+      "sha256": "71aa878fd06ef02f0c8ca50eaaee0ec45995981d769d8701806b9b83ca8a2f2c"
+    },
+    {
+      "name": "autonomous-agent-harness",
+      "path": "plugins/ecc/ecc/2.2.1/skills/autonomous-agent-harness/SKILL.md",
+      "sha256": "74afde3fa6e8423bdbf43f53b24c7b4a8b441648a1ad8f23953dc6eba3378409"
+    },
+    {
+      "name": "autonomous-loops",
+      "path": "plugins/ecc/ecc/2.2.1/skills/autonomous-loops/SKILL.md",
+      "sha256": "c2db797295500b9c2b31d9dd2451ef28727346c739b5d1d3366f0f9ea2e823dc"
+    },
+    {
+      "name": "backend-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/backend-patterns/SKILL.md",
+      "sha256": "9b983d0297a983110fdfda8dce55d19b750ca3e53ef155d75a3eff740d3874b8"
+    },
+    {
+      "name": "benchmark",
+      "path": "plugins/ecc/ecc/2.2.1/skills/benchmark/SKILL.md",
+      "sha256": "3b4d32317cb906904ab192b6e50389e34bad88887cb085c8ef1a345c382609dc"
+    },
+    {
+      "name": "benchmark-methodology",
+      "path": "plugins/ecc/ecc/2.2.1/skills/benchmark-methodology/SKILL.md",
+      "sha256": "f2cba14bb87ff43f80c2eaec6311eee7ead4d8b89949864442362eb368acbbac"
+    },
+    {
+      "name": "benchmark-optimization-loop",
+      "path": "plugins/ecc/ecc/2.2.1/skills/benchmark-optimization-loop/SKILL.md",
+      "sha256": "51a766eba273a30c24b8f3851e115e72335f3e3851a82235b9f9c1fedfb423a4"
+    },
+    {
+      "name": "blender-motion-state-inspection",
+      "path": "plugins/ecc/ecc/2.2.1/skills/blender-motion-state-inspection/SKILL.md",
+      "sha256": "97b8aee8822a8603e2fc930f66b4bd18507c11ca756accd1419a2a3526196f5c"
+    },
+    {
+      "name": "blueprint",
+      "path": "plugins/ecc/ecc/2.2.1/skills/blueprint/SKILL.md",
+      "sha256": "bc7118400659cfffbfd238c529baf597a9a726bd8dd6bb956d29fe263037d502"
+    },
+    {
+      "name": "brand-discovery",
+      "path": "plugins/ecc/ecc/2.2.1/skills/brand-discovery/SKILL.md",
+      "sha256": "0c6ef1b72b0fe635d1681abf3857ec34214fd6580fad7708a96a8f4abc096ef5"
+    },
+    {
+      "name": "brand-voice",
+      "path": "plugins/ecc/ecc/2.2.1/skills/brand-voice/SKILL.md",
+      "sha256": "57c7f8440b7bd4c91c0d325640b5c6fb7a3dc7fc05595946c7bc705761a987a7"
+    },
+    {
+      "name": "browser-qa",
+      "path": "plugins/ecc/ecc/2.2.1/skills/browser-qa/SKILL.md",
+      "sha256": "c501257d2c9ca711342b56d7adfb04897f17c6946dc6cdb88a5c75c87e4aa951"
+    },
+    {
+      "name": "bun-runtime",
+      "path": "plugins/ecc/ecc/2.2.1/skills/bun-runtime/SKILL.md",
+      "sha256": "8015a977827ddd8536e89c4693a575b8deb5b04073b8a483c320c5419abc35da"
+    },
+    {
+      "name": "canary-watch",
+      "path": "plugins/ecc/ecc/2.2.1/skills/canary-watch/SKILL.md",
+      "sha256": "d2cb536f8ccb201266e094542cb20af8a4d6474feb5b16116cfb4497c2b8149f"
+    },
+    {
+      "name": "carrier-relationship-management",
+      "path": "plugins/ecc/ecc/2.2.1/skills/carrier-relationship-management/SKILL.md",
+      "sha256": "af44a99f4d5f8fa616cf17e4f7a2f68403c30bf9cf6525e4c149d55e532b3c14"
+    },
+    {
+      "name": "cisco-ios-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/cisco-ios-patterns/SKILL.md",
+      "sha256": "85b6a97574cc236d4a9336b1c74b42aaf4386338417e787cbed0c88677bf1179"
+    },
+    {
+      "name": "ck",
+      "path": "plugins/ecc/ecc/2.2.1/skills/ck/SKILL.md",
+      "sha256": "cce8ed0d543fe932b469f6a191d9e5fe912477bea1b94f68e1a7f7cfc66fd7c3"
+    },
+    {
+      "name": "claude-devfleet",
+      "path": "plugins/ecc/ecc/2.2.1/skills/claude-devfleet/SKILL.md",
+      "sha256": "5fe6efbb5663699ba8e348b2a77fbf7c396ed1903bb95fa0c05c1174f81fabfc"
+    },
+    {
+      "name": "click-path-audit",
+      "path": "plugins/ecc/ecc/2.2.1/skills/click-path-audit/SKILL.md",
+      "sha256": "662fc5d02483bcd8ff799d6d3109a38da673182341cfc14445e9076fcd920162"
+    },
+    {
+      "name": "clickhouse-io",
+      "path": "plugins/ecc/ecc/2.2.1/skills/clickhouse-io/SKILL.md",
+      "sha256": "9f0f2b632f3feb1bd4ca7bae119fe05454668ab763b7d3c3d304f8740b8fd415"
+    },
+    {
+      "name": "code-tour",
+      "path": "plugins/ecc/ecc/2.2.1/skills/code-tour/SKILL.md",
+      "sha256": "416c7eb9229554a1ef113bbb873ff0b260a2ad9ae6e6075a75c375955d3fcf6f"
+    },
+    {
+      "name": "codebase-onboarding",
+      "path": "plugins/ecc/ecc/2.2.1/skills/codebase-onboarding/SKILL.md",
+      "sha256": "ef88873a4b0d0fe155c0a196ffecd5c7b5e28edd00fbbdb5c1fd2ca8fd0eb6f0"
+    },
+    {
+      "name": "codehealth-mcp",
+      "path": "plugins/ecc/ecc/2.2.1/skills/codehealth-mcp/SKILL.md",
+      "sha256": "c5943c4c353b02dcd87b751de15bb087caae2f11c36e84a74e181fe2eadee394"
+    },
+    {
+      "name": "coding-standards",
+      "path": "plugins/ecc/ecc/2.2.1/skills/coding-standards/SKILL.md",
+      "sha256": "e80544c3d1eac5b14f22022146bd91a6b0ecc30e099cf5181894853aeb81dee1"
+    },
+    {
+      "name": "competitive-platform-analysis",
+      "path": "plugins/ecc/ecc/2.2.1/skills/competitive-platform-analysis/SKILL.md",
+      "sha256": "060f50513003731e9c0e7f78e6a6a9b8cb178a74a2ec2a6ca75cdae804f0d564"
+    },
+    {
+      "name": "competitive-report-structure",
+      "path": "plugins/ecc/ecc/2.2.1/skills/competitive-report-structure/SKILL.md",
+      "sha256": "fe3ad1b5b6caa4709b2a75e22772771946f36c9592c281012e5d2df087412800"
+    },
+    {
+      "name": "compose-multiplatform-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/compose-multiplatform-patterns/SKILL.md",
+      "sha256": "37a50a5eb0a717eebac646360dbd8828f626236ec04d98d8c4a6b191a5efb0d0"
+    },
+    {
+      "name": "config-gc",
+      "path": "plugins/ecc/ecc/2.2.1/skills/config-gc/SKILL.md",
+      "sha256": "e8ade5c8d48728db6c1137e4392308b6d56290a19d4f78d365122d7ab05276a1"
+    },
+    {
+      "name": "configure-ecc",
+      "path": "plugins/ecc/ecc/2.2.1/skills/configure-ecc/SKILL.md",
+      "sha256": "a01e64075c0c68206f2e8b45fd131a32dfc425d24494e3c8e4db9a3ab34e4c19"
+    },
+    {
+      "name": "connections-optimizer",
+      "path": "plugins/ecc/ecc/2.2.1/skills/connections-optimizer/SKILL.md",
+      "sha256": "499c7e7e361ec17afdad57b725b4d105efb21f707b5724115f71152fe1755c67"
+    },
+    {
+      "name": "content-engine",
+      "path": "plugins/ecc/ecc/2.2.1/skills/content-engine/SKILL.md",
+      "sha256": "a1ccc0ecfe30ae53db26a73159a80ecad8c63a6a96c461a297789d889bf9ad2c"
+    },
+    {
+      "name": "content-hash-cache-pattern",
+      "path": "plugins/ecc/ecc/2.2.1/skills/content-hash-cache-pattern/SKILL.md",
+      "sha256": "c0242ee2fcb5c096d0625cb6957481fce2266e92985036795f5b5c13c329d802"
+    },
+    {
+      "name": "context-budget",
+      "path": "plugins/ecc/ecc/2.2.1/skills/context-budget/SKILL.md",
+      "sha256": "920c5edde48e495b267fb0d42d8411c8b75ce1d8ab76e793b2eb6d23da01b0f1"
+    },
+    {
+      "name": "continuous-agent-loop",
+      "path": "plugins/ecc/ecc/2.2.1/skills/continuous-agent-loop/SKILL.md",
+      "sha256": "f228cd383a9063b3a0116c5aea02565e859992f63fae5e799adf9c9e44e2454d"
+    },
+    {
+      "name": "continuous-learning",
+      "path": "plugins/ecc/ecc/2.2.1/skills/continuous-learning/SKILL.md",
+      "sha256": "d494867b456999cad53c51c89fa2cf8da101f76ea875286987f52e5d45f72221"
+    },
+    {
+      "name": "continuous-learning-v2",
+      "path": "plugins/ecc/ecc/2.2.1/skills/continuous-learning-v2/SKILL.md",
+      "sha256": "ddad12451a0d582c6ef1b197b7be193bef613cbc74eba4117fcb74fc7a4ecd00"
+    },
+    {
+      "name": "contract-first",
+      "path": "plugins/ecc/ecc/2.2.1/skills/contract-first/SKILL.md",
+      "sha256": "dc23ee49437e4d914ea9a9e37eec0dfe59dc16b11fcbc3a6e5c72f25dbd3cc5c"
+    },
+    {
+      "name": "cost-aware-llm-pipeline",
+      "path": "plugins/ecc/ecc/2.2.1/skills/cost-aware-llm-pipeline/SKILL.md",
+      "sha256": "2d6c19c2d21a473db8720c4f723f17d265eeec48f84614f0169be2df2fbe28ff"
+    },
+    {
+      "name": "cost-tracking",
+      "path": "plugins/ecc/ecc/2.2.1/skills/cost-tracking/SKILL.md",
+      "sha256": "486b8289ec3f481e75c477f9e209ab4d008c9fe05dde7c1d0b7813010c3463ba"
+    },
+    {
+      "name": "council",
+      "path": "plugins/ecc/ecc/2.2.1/skills/council/SKILL.md",
+      "sha256": "2104d002d301a061a16d21ea2e00292f80b66b20c9883a33525a7de404153502"
+    },
+    {
+      "name": "council-multi-model",
+      "path": "plugins/ecc/ecc/2.2.1/skills/council-multi-model/SKILL.md",
+      "sha256": "3c67816efdab97c89f8433b8a88d720ca736871467f7d6d1ff344fee59f18ce5"
+    },
+    {
+      "name": "cpp-coding-standards",
+      "path": "plugins/ecc/ecc/2.2.1/skills/cpp-coding-standards/SKILL.md",
+      "sha256": "f870b47d3493b0ad0b6e3808a679ac3c429b60f03193af6c9dc0e0d9e6981436"
+    },
+    {
+      "name": "cpp-testing",
+      "path": "plugins/ecc/ecc/2.2.1/skills/cpp-testing/SKILL.md",
+      "sha256": "a92fb5da9b7e3cd1b4dee185b3eb9d0a55352af6396bf996d2eef72d683784df"
+    },
+    {
+      "name": "crosspost",
+      "path": "plugins/ecc/ecc/2.2.1/skills/crosspost/SKILL.md",
+      "sha256": "03bd2ef6e08191cd336e9b8e7a55c29040e7a3225defdaeab1b51d983565661f"
+    },
+    {
+      "name": "csharp-testing",
+      "path": "plugins/ecc/ecc/2.2.1/skills/csharp-testing/SKILL.md",
+      "sha256": "ee93aae975fa9d44bebc33be010b24435d38177e77395c697048622d9be68ad1"
+    },
+    {
+      "name": "customer-billing-ops",
+      "path": "plugins/ecc/ecc/2.2.1/skills/customer-billing-ops/SKILL.md",
+      "sha256": "4214d79be7d1bcb62587cf6364e96ed3b70b875ec41871ac632e827ef96b370e"
+    },
+    {
+      "name": "customs-trade-compliance",
+      "path": "plugins/ecc/ecc/2.2.1/skills/customs-trade-compliance/SKILL.md",
+      "sha256": "dafcf2ece4e85fcffd345d286a6c0b06fb85ad02ed3c18b3b773656c2ef838ab"
+    },
+    {
+      "name": "dart-flutter-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/dart-flutter-patterns/SKILL.md",
+      "sha256": "d0a5a1881005ae78f1bca3d73c194057302c653efedb24332a27d55f6c85112e"
+    },
+    {
+      "name": "dashboard-builder",
+      "path": "plugins/ecc/ecc/2.2.1/skills/dashboard-builder/SKILL.md",
+      "sha256": "6823d9984c060597a312b867c317e0969e1cb0a2dec19730ce944fe789f41d38"
+    },
+    {
+      "name": "data-scraper-agent",
+      "path": "plugins/ecc/ecc/2.2.1/skills/data-scraper-agent/SKILL.md",
+      "sha256": "662e884d58f4089bd8e090ef8d32042b85a5d9b4715906a89072002704451c0a"
+    },
+    {
+      "name": "data-throughput-accelerator",
+      "path": "plugins/ecc/ecc/2.2.1/skills/data-throughput-accelerator/SKILL.md",
+      "sha256": "ed164d18536a456f71b876a84c54a94a5fc0a0f6aca25299c1c4a2b8f5476449"
+    },
+    {
+      "name": "database-migrations",
+      "path": "plugins/ecc/ecc/2.2.1/skills/database-migrations/SKILL.md",
+      "sha256": "ad7f2f04ca03e592a16e2a539d8c6e90bf4e08892408820ce99a53e9d07775de"
+    },
+    {
+      "name": "deep-research",
+      "path": "plugins/ecc/ecc/2.2.1/skills/deep-research/SKILL.md",
+      "sha256": "72e184f5d0f31ca4d45286753409d8c8431b025e8ac3800dcc9f32d9e930f58a"
+    },
+    {
+      "name": "defi-amm-security",
+      "path": "plugins/ecc/ecc/2.2.1/skills/defi-amm-security/SKILL.md",
+      "sha256": "06f662a81b1faebb9930118302d88d649dbc5bcbf7dfe87c3780ddc72f2d6516"
+    },
+    {
+      "name": "delivery-gate",
+      "path": "plugins/ecc/ecc/2.2.1/skills/delivery-gate/SKILL.md",
+      "sha256": "147a971c26b7bf4f9fbc3e1f624ec7c888eb8d74911d8ffbbe0418d9aaaa9767"
+    },
+    {
+      "name": "deployment-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/deployment-patterns/SKILL.md",
+      "sha256": "b864abd1954570c4a469b7e1deb897e57858d25db2fd98d035ff7bca4a15b9b6"
+    },
+    {
+      "name": "design-system",
+      "path": "plugins/ecc/ecc/2.2.1/skills/design-system/SKILL.md",
+      "sha256": "baa6057bec07334f531789d07fbdd656afd725c0540992bd04db7589cac36d26"
+    },
+    {
+      "name": "dev-team",
+      "path": "plugins/ecc/ecc/2.2.1/skills/dev-team/SKILL.md",
+      "sha256": "727b093c8f8284923e54619b9193e5dee9e9ae0ea87b5fb65e1e01e0206fe621"
+    },
+    {
+      "name": "django-celery",
+      "path": "plugins/ecc/ecc/2.2.1/skills/django-celery/SKILL.md",
+      "sha256": "1f9189ece910eb90a5d2cd520a9a6238ccb89a3e48629ac1ad9b55ec3eb21f88"
+    },
+    {
+      "name": "django-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/django-patterns/SKILL.md",
+      "sha256": "14abe2b635054dff872c07d4993057e614b48ac718c0431f1299931be7d69516"
+    },
+    {
+      "name": "django-security",
+      "path": "plugins/ecc/ecc/2.2.1/skills/django-security/SKILL.md",
+      "sha256": "e043c9d300695aea5a9bb4c72a6f47e47ba1f2c7ddc1e82b8191acd0ad70c54a"
+    },
+    {
+      "name": "django-tdd",
+      "path": "plugins/ecc/ecc/2.2.1/skills/django-tdd/SKILL.md",
+      "sha256": "20bd5378fb9b76b396916daa8781dd45eef6336e5d4b3a46edb0c3e4eefaf074"
+    },
+    {
+      "name": "django-verification",
+      "path": "plugins/ecc/ecc/2.2.1/skills/django-verification/SKILL.md",
+      "sha256": "cb1b6c5938c8c41dffb1f7bb752e307df6ced2577af2fc40786bde4c53799cea"
+    },
+    {
+      "name": "dmux-workflows",
+      "path": "plugins/ecc/ecc/2.2.1/skills/dmux-workflows/SKILL.md",
+      "sha256": "6e4028d61a556d58fa2cdc6162d6837c082974a7161b2d703967bec472308c56"
+    },
+    {
+      "name": "docker-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/docker-patterns/SKILL.md",
+      "sha256": "2a880cf2f6401874151daa9bcc0eacd10cf79f5f48b97f98e93a877a8f3fd12b"
+    },
+    {
+      "name": "documentation-lookup",
+      "path": "plugins/ecc/ecc/2.2.1/skills/documentation-lookup/SKILL.md",
+      "sha256": "81ad2b5b4acbe02259f4b6cbfd9111d81d5cfe51025051b6048959c45f6516c1"
+    },
+    {
+      "name": "dotnet-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/dotnet-patterns/SKILL.md",
+      "sha256": "61bc21a6c6d6d1230d90f0bbebca55101b1b63de68ece8574152cbad152cef07"
+    },
+    {
+      "name": "dynamic-workflow-mode",
+      "path": "plugins/ecc/ecc/2.2.1/skills/dynamic-workflow-mode/SKILL.md",
+      "sha256": "bdf7902e4e213c6f2e7bdc417757004d118e8e36267239b707670e2875ebf7bf"
+    },
+    {
+      "name": "e2e-testing",
+      "path": "plugins/ecc/ecc/2.2.1/skills/e2e-testing/SKILL.md",
+      "sha256": "b0e00e7e17cb259101139900816c5528aed18dd10bcf5f9cb42cfc35baf8a755"
+    },
+    {
+      "name": "ecc-guide",
+      "path": "plugins/ecc/ecc/2.2.1/skills/ecc-guide/SKILL.md",
+      "sha256": "b6e30828406e562ef65d323f1366629239313f076a7a53ba7e8dbaec0e96b203"
+    },
+    {
+      "name": "ecc-recipes",
+      "path": "plugins/ecc/ecc/2.2.1/skills/ecc-recipes/SKILL.md",
+      "sha256": "5184f7e0655dccbf769b52df9c8f7a587e9c2d6b13dcb33aaafefae5fa542137"
+    },
+    {
+      "name": "ecc-tools-cost-audit",
+      "path": "plugins/ecc/ecc/2.2.1/skills/ecc-tools-cost-audit/SKILL.md",
+      "sha256": "d5c4c7925166703eb5fca83c0f1dcdeffb9c5808dc3cc08c337136f512fddbac"
+    },
+    {
+      "name": "email-ops",
+      "path": "plugins/ecc/ecc/2.2.1/skills/email-ops/SKILL.md",
+      "sha256": "188b226ec0dfd4304d6c9b60498b5f0dc2b3c97b14e159e5bde5db323ad45721"
+    },
+    {
+      "name": "energy-procurement",
+      "path": "plugins/ecc/ecc/2.2.1/skills/energy-procurement/SKILL.md",
+      "sha256": "adb80378247afb4d66055df84eb736a3fc7a233835fe24bcea26fcd0f5985b10"
+    },
+    {
+      "name": "enterprise-agent-ops",
+      "path": "plugins/ecc/ecc/2.2.1/skills/enterprise-agent-ops/SKILL.md",
+      "sha256": "ad6fa3fc7cc96b6e8d949880252b1d74d700b90286509318a2952f51b784e364"
+    },
+    {
+      "name": "error-handling",
+      "path": "plugins/ecc/ecc/2.2.1/skills/error-handling/SKILL.md",
+      "sha256": "e8eec6756c950b570486493e64e3bf14c12baf6bf0858bf3928097fe2bfeaf79"
+    },
+    {
+      "name": "eval-harness",
+      "path": "plugins/ecc/ecc/2.2.1/skills/eval-harness/SKILL.md",
+      "sha256": "9d3afbeca1479975c2575daa7467ca3666e7627fcebe02ea050f2db93917c4fd"
+    },
+    {
+      "name": "evm-token-decimals",
+      "path": "plugins/ecc/ecc/2.2.1/skills/evm-token-decimals/SKILL.md",
+      "sha256": "4e3fd13794f55a2a424cabdfe90935effb35d37155fda3fcacd27cfe20102838"
+    },
+    {
+      "name": "exa-search",
+      "path": "plugins/ecc/ecc/2.2.1/skills/exa-search/SKILL.md",
+      "sha256": "ebc8e7ab299a6649f575e218f0c25f4d869017b8ad4b5f7725cedceaf82700e5"
+    },
+    {
+      "name": "fal-ai-media",
+      "path": "plugins/ecc/ecc/2.2.1/skills/fal-ai-media/SKILL.md",
+      "sha256": "84df7b48ef1dd67a6dff5bb7e00059ee12e7f3b6b02c25e143ecd7c984342143"
+    },
+    {
+      "name": "fastapi-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/fastapi-patterns/SKILL.md",
+      "sha256": "f54c2bf5a61eeda47c939da265b1431d609c231611e71b688b0b734a064b18f3"
+    },
+    {
+      "name": "finance-billing-ops",
+      "path": "plugins/ecc/ecc/2.2.1/skills/finance-billing-ops/SKILL.md",
+      "sha256": "823a1b8f75495022227bb9af4537eb5c0b1c62793d68b74c6bd1af14eea79786"
+    },
+    {
+      "name": "flox-environments",
+      "path": "plugins/ecc/ecc/2.2.1/skills/flox-environments/SKILL.md",
+      "sha256": "d15e0af4d6f57ea085482f163d0d1658279301202b161087e9e6f66e7f4b91c9"
+    },
+    {
+      "name": "flutter-dart-code-review",
+      "path": "plugins/ecc/ecc/2.2.1/skills/flutter-dart-code-review/SKILL.md",
+      "sha256": "5ceac13c9b99c97340f9a47c081737aceee1f803ed9045b7fbc980243b01db03"
+    },
+    {
+      "name": "foundation-models-on-device",
+      "path": "plugins/ecc/ecc/2.2.1/skills/foundation-models-on-device/SKILL.md",
+      "sha256": "4f239588e43f7ff0d6415cdcd2c85528a854cdd712986c00c690c6d3cb09491e"
+    },
+    {
+      "name": "frontend-a11y",
+      "path": "plugins/ecc/ecc/2.2.1/skills/frontend-a11y/SKILL.md",
+      "sha256": "62afdfd4e616ed21bf9037d47f771f3504d21838c898b9e9de8ac0da9b0bf3f7"
+    },
+    {
+      "name": "frontend-design-direction",
+      "path": "plugins/ecc/ecc/2.2.1/skills/frontend-design-direction/SKILL.md",
+      "sha256": "fa254de821f708e5791c4c80d30309ac7da89c2888301e967becb3b21ac73331"
+    },
+    {
+      "name": "frontend-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/frontend-patterns/SKILL.md",
+      "sha256": "a5b971eb9e74cd763c7e3308bfd888e0d9cf69f8b88477659889d77182479740"
+    },
+    {
+      "name": "frontend-slides",
+      "path": "plugins/ecc/ecc/2.2.1/skills/frontend-slides/SKILL.md",
+      "sha256": "9d58ad7d4555a9d6ea1944a5084fd0428ee44276ac13ee8df02c1c4e63925291"
+    },
+    {
+      "name": "fsharp-testing",
+      "path": "plugins/ecc/ecc/2.2.1/skills/fsharp-testing/SKILL.md",
+      "sha256": "d89f8cb5235f7896b014aae4aa94026bd1a38bc6add956d3fc7ccf2963f2adb7"
+    },
+    {
+      "name": "gan-style-harness",
+      "path": "plugins/ecc/ecc/2.2.1/skills/gan-style-harness/SKILL.md",
+      "sha256": "d91da8ca4a77a797d9ab78bb748aeb16567d75a1b109c894dc07d8815aa19dde"
+    },
+    {
+      "name": "gateguard",
+      "path": "plugins/ecc/ecc/2.2.1/skills/gateguard/SKILL.md",
+      "sha256": "68fa6e19ead99d37e0f1fb26bf9297b4938366c602f7ff7308f676c8b613f470"
+    },
+    {
+      "name": "generating-python-installer",
+      "path": "plugins/ecc/ecc/2.2.1/skills/generating-python-installer/SKILL.md",
+      "sha256": "47e73ef601d900be3b5ccb5d1a1ba2371d3e46c67b5243c1810e51cd2d8f62f3"
+    },
+    {
+      "name": "git-workflow",
+      "path": "plugins/ecc/ecc/2.2.1/skills/git-workflow/SKILL.md",
+      "sha256": "d34cfc7114b4479cac2b802f2463c39312cbab4a509313128cb83ac12a1b1eb6"
+    },
+    {
+      "name": "github-ops",
+      "path": "plugins/ecc/ecc/2.2.1/skills/github-ops/SKILL.md",
+      "sha256": "e475484ce751d87c3df591879a98d917e9380ff687ac588fbd68578df526e92d"
+    },
+    {
+      "name": "golang-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/golang-patterns/SKILL.md",
+      "sha256": "d643e354683167727cfeb76934855db988468cd15b3ca01db9a32db43902edf7"
+    },
+    {
+      "name": "golang-testing",
+      "path": "plugins/ecc/ecc/2.2.1/skills/golang-testing/SKILL.md",
+      "sha256": "e3399562c58590dfcbd09bfcbf8f401120a2ded0418eb33bbfca6c697ac485ad"
+    },
+    {
+      "name": "google-workspace-ops",
+      "path": "plugins/ecc/ecc/2.2.1/skills/google-workspace-ops/SKILL.md",
+      "sha256": "93ab16b44764e3c00472c7dfb0b58cf59a3c7493ac99ab93fcabf280f164b6a1"
+    },
+    {
+      "name": "growth-log",
+      "path": "plugins/ecc/ecc/2.2.1/skills/growth-log/SKILL.md",
+      "sha256": "8f90db7c9e84a570f68480a32075026fd98dc4c0dbc7ead0af8357e756274cee"
+    },
+    {
+      "name": "healthcare-cdss-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/healthcare-cdss-patterns/SKILL.md",
+      "sha256": "439875d2fff3bbf14e0b46b7310b4c815c2596e54a6cafaafb4b2b93b4865626"
+    },
+    {
+      "name": "healthcare-emr-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/healthcare-emr-patterns/SKILL.md",
+      "sha256": "117e1861c5313f1874c82791c73798d28e9985cac8964a95d73bed915a8aff39"
+    },
+    {
+      "name": "healthcare-eval-harness",
+      "path": "plugins/ecc/ecc/2.2.1/skills/healthcare-eval-harness/SKILL.md",
+      "sha256": "0c74bb0309d4fb7e3bf04b0f779909156520c73bd6162bd405f7232af19c0a68"
+    },
+    {
+      "name": "healthcare-phi-compliance",
+      "path": "plugins/ecc/ecc/2.2.1/skills/healthcare-phi-compliance/SKILL.md",
+      "sha256": "18c698c348e1affe90ccdd4dca56b74e6d43a83a8334df65b7da916d80615583"
+    },
+    {
+      "name": "hermes-imports",
+      "path": "plugins/ecc/ecc/2.2.1/skills/hermes-imports/SKILL.md",
+      "sha256": "4e425b32c9830c936f845b3f63352f6f199d869eb27eef484ce28ddc8ce4f3b4"
+    },
+    {
+      "name": "hexagonal-architecture",
+      "path": "plugins/ecc/ecc/2.2.1/skills/hexagonal-architecture/SKILL.md",
+      "sha256": "1579f70e4cd5a2dde39d29a2055d18b39f06b063a308d3b43a498900c99495b7"
+    },
+    {
+      "name": "hipaa-compliance",
+      "path": "plugins/ecc/ecc/2.2.1/skills/hipaa-compliance/SKILL.md",
+      "sha256": "4bc1f29a3be7986f89bdd7b5ec3894451e67c687a558b683cab62bd8d1fd2264"
+    },
+    {
+      "name": "homelab-network-readiness",
+      "path": "plugins/ecc/ecc/2.2.1/skills/homelab-network-readiness/SKILL.md",
+      "sha256": "056835b13ab04b672bd8e6c19376b58afb2893b5411428c1588fd07b19571c9d"
+    },
+    {
+      "name": "homelab-network-setup",
+      "path": "plugins/ecc/ecc/2.2.1/skills/homelab-network-setup/SKILL.md",
+      "sha256": "8104e87516857c7f773da9aba0dd13b61c3e490913adb4555d036614a9a937be"
+    },
+    {
+      "name": "homelab-pihole-dns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/homelab-pihole-dns/SKILL.md",
+      "sha256": "23a801545a4839c4fc04dc287e1122cc3913016a116b2cb5c7720e193edfa6c2"
+    },
+    {
+      "name": "homelab-vlan-segmentation",
+      "path": "plugins/ecc/ecc/2.2.1/skills/homelab-vlan-segmentation/SKILL.md",
+      "sha256": "a6e5d6574566881d31e949cc0fad927e1e547d2ebe6f11d1f94f2890ed6ddd5e"
+    },
+    {
+      "name": "homelab-wireguard-vpn",
+      "path": "plugins/ecc/ecc/2.2.1/skills/homelab-wireguard-vpn/SKILL.md",
+      "sha256": "38df424e399549d3ba42d6f50c77554d9a88a46b3bac4dd1436158874535c13c"
+    },
+    {
+      "name": "hookify-rules",
+      "path": "plugins/ecc/ecc/2.2.1/skills/hookify-rules/SKILL.md",
+      "sha256": "b604608e30ac2b8f4f62dea3023efe2d3247b41a38c4156a6b6297173f2405a8"
+    },
+    {
+      "name": "inherit-legacy-style",
+      "path": "plugins/ecc/ecc/2.2.1/skills/inherit-legacy-style/SKILL.md",
+      "sha256": "14e7b20424f123b594d3ee3d6ac3e722b21e5a6816fe90bacf8a23e6c3af5b6d"
+    },
+    {
+      "name": "intent-driven-development",
+      "path": "plugins/ecc/ecc/2.2.1/skills/intent-driven-development/SKILL.md",
+      "sha256": "e34045f7b3bf6a6fbd364f85c7bc81d8208e18bb929ceff80bbc987f78aadea8"
+    },
+    {
+      "name": "inventory-demand-planning",
+      "path": "plugins/ecc/ecc/2.2.1/skills/inventory-demand-planning/SKILL.md",
+      "sha256": "27f2f103cf872ab272ac0137f2e3fd89e6dfec3681f9a685d4ffbae12dc0b878"
+    },
+    {
+      "name": "investor-materials",
+      "path": "plugins/ecc/ecc/2.2.1/skills/investor-materials/SKILL.md",
+      "sha256": "e2c8d64412e2af9a2def3144b3d1e32f0fd69c724f2d17615fcf5a9bfa5f01cc"
+    },
+    {
+      "name": "investor-outreach",
+      "path": "plugins/ecc/ecc/2.2.1/skills/investor-outreach/SKILL.md",
+      "sha256": "e5d4918dcbc62eb25d42829b56683ae6befe3a623f7ce6ed66bef37ce1a57c65"
+    },
+    {
+      "name": "ios-icon-gen",
+      "path": "plugins/ecc/ecc/2.2.1/skills/ios-icon-gen/SKILL.md",
+      "sha256": "893627c44e6d209f9b2e02de2f4879188649d22ae9723cd5b9445de6df3d6482"
+    },
+    {
+      "name": "iterative-retrieval",
+      "path": "plugins/ecc/ecc/2.2.1/skills/iterative-retrieval/SKILL.md",
+      "sha256": "b453b16d3e36174b8487c05ab807d0321a66c2d058812b2ae129d82824183725"
+    },
+    {
+      "name": "ito-baskets",
+      "path": "plugins/ecc/ecc/2.2.1/skills/ito-baskets/SKILL.md",
+      "sha256": "ef5e4353d1d90a75ad0b9c435d831c178187b4be407b9270e2d32b2bb64589bc"
+    },
+    {
+      "name": "ito-compute",
+      "path": "plugins/ecc/ecc/2.2.1/skills/ito-compute/SKILL.md",
+      "sha256": "ed0664f44307b1243cd7fa7521b05ca3f50a1dd4460e93b55edb8bcda988e815"
+    },
+    {
+      "name": "ito-inference",
+      "path": "plugins/ecc/ecc/2.2.1/skills/ito-inference/SKILL.md",
+      "sha256": "60d2094ff4e8eb43f4599eaf806331231525a7a6cc5fee609f1764a0f848cc7b"
+    },
+    {
+      "name": "ito-training",
+      "path": "plugins/ecc/ecc/2.2.1/skills/ito-training/SKILL.md",
+      "sha256": "43ce5354855709d10d7171bae301157b0b88e6ac9a3775c9acd9599c0b7617d5"
+    },
+    {
+      "name": "java-coding-standards",
+      "path": "plugins/ecc/ecc/2.2.1/skills/java-coding-standards/SKILL.md",
+      "sha256": "c7088a434cd7efb4f3bb449bed2178cf683c1d71bc50f8ae5234a8880d3633f4"
+    },
+    {
+      "name": "jira-integration",
+      "path": "plugins/ecc/ecc/2.2.1/skills/jira-integration/SKILL.md",
+      "sha256": "ce0a0c815e3112a1e80d4dbd1d2d0c804c2af0371628d325e04d7ffbddf4247e"
+    },
+    {
+      "name": "jpa-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/jpa-patterns/SKILL.md",
+      "sha256": "bcdd45c5e435df259856b20aae47182209b0467b542eacfc7e32bcf452326839"
+    },
+    {
+      "name": "knowledge-ops",
+      "path": "plugins/ecc/ecc/2.2.1/skills/knowledge-ops/SKILL.md",
+      "sha256": "958529713af2ab29c7b31b3cb758953271174b8909c94f1238dd7c78671672c2"
+    },
+    {
+      "name": "kotlin-coroutines-flows",
+      "path": "plugins/ecc/ecc/2.2.1/skills/kotlin-coroutines-flows/SKILL.md",
+      "sha256": "ed7d895ecd6c717fbdbf7f1469110df74a6337792acd1232c4ad7286abee76e4"
+    },
+    {
+      "name": "kotlin-exposed-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/kotlin-exposed-patterns/SKILL.md",
+      "sha256": "dda4952840ddff31a9ea4ad7161dd75fbc13ff73ebf73d5ee9fa42fcce287167"
+    },
+    {
+      "name": "kotlin-ktor-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/kotlin-ktor-patterns/SKILL.md",
+      "sha256": "f2fa0b135ad0f37ee7a79dd346d236758f25c60c525de451bba28678659a5261"
+    },
+    {
+      "name": "kotlin-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/kotlin-patterns/SKILL.md",
+      "sha256": "e519234772a3697763ad484908d180c4c653439fea75a56c03440c272f9f0896"
+    },
+    {
+      "name": "kotlin-testing",
+      "path": "plugins/ecc/ecc/2.2.1/skills/kotlin-testing/SKILL.md",
+      "sha256": "13e39ad65e86e86c22fbdb6273bdc8d17d3784c221a8f08207a1e9e2e9c29a0a"
+    },
+    {
+      "name": "kubernetes-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/kubernetes-patterns/SKILL.md",
+      "sha256": "808b2ec032224e251f1bef9f6e9879e88e2e7abd0feb393632fb6042d8ac5ecc"
+    },
+    {
+      "name": "laravel-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/laravel-patterns/SKILL.md",
+      "sha256": "6fa9d96a7b944ef9775e2ecb93a56bc29d6219e34eb5af491792638fc5cb46b4"
+    },
+    {
+      "name": "laravel-plugin-discovery",
+      "path": "plugins/ecc/ecc/2.2.1/skills/laravel-plugin-discovery/SKILL.md",
+      "sha256": "6cf2b48ae39f26df7f8d17cf6480635b5203f6942a756a290efa27cf339169d3"
+    },
+    {
+      "name": "laravel-security",
+      "path": "plugins/ecc/ecc/2.2.1/skills/laravel-security/SKILL.md",
+      "sha256": "0440ddff450c63a9338f15b765ec35486f3f3266b321e0b27128faa3c29784fe"
+    },
+    {
+      "name": "laravel-tdd",
+      "path": "plugins/ecc/ecc/2.2.1/skills/laravel-tdd/SKILL.md",
+      "sha256": "505fa6c5caad022a5db0c359aebdcdcce1ad16e5863dc13ef862aec48cfa1628"
+    },
+    {
+      "name": "laravel-verification",
+      "path": "plugins/ecc/ecc/2.2.1/skills/laravel-verification/SKILL.md",
+      "sha256": "577f592e4d570e8a6c4a0106acb8102063f67bea53c98eb6eae222191c038c35"
+    },
+    {
+      "name": "latency-critical-systems",
+      "path": "plugins/ecc/ecc/2.2.1/skills/latency-critical-systems/SKILL.md",
+      "sha256": "5df315a5b5dd306a569ba8b3220f4eab80302c3d7f90128c290398b64bb76275"
+    },
+    {
+      "name": "lead-intelligence",
+      "path": "plugins/ecc/ecc/2.2.1/skills/lead-intelligence/SKILL.md",
+      "sha256": "1b24027c5ef0ebfb046990433905b80d8df63d93f83fff9fdef4f74ad883a5f2"
+    },
+    {
+      "name": "liquid-glass-design",
+      "path": "plugins/ecc/ecc/2.2.1/skills/liquid-glass-design/SKILL.md",
+      "sha256": "6e424b8daba26c92a8283cd3e5b35c7b2bc78a0a9fc07821a5939027090b8e43"
+    },
+    {
+      "name": "living-docs-governance",
+      "path": "plugins/ecc/ecc/2.2.1/skills/living-docs-governance/SKILL.md",
+      "sha256": "e8c22a1f69743e256c6d6df138d99e49d22e29effbf008dfe2328b7fdc76247e"
+    },
+    {
+      "name": "llm-trading-agent-security",
+      "path": "plugins/ecc/ecc/2.2.1/skills/llm-trading-agent-security/SKILL.md",
+      "sha256": "8a59b241f6ae86d8f96b88122643b4d27d70adb6c15b31f5163f9586cb81b293"
+    },
+    {
+      "name": "logistics-exception-management",
+      "path": "plugins/ecc/ecc/2.2.1/skills/logistics-exception-management/SKILL.md",
+      "sha256": "66b91a1ea6af1f6f73a05fa125dcb44dc6de4ec00c4834b0bf597281bfb7964c"
+    },
+    {
+      "name": "loop-design-check",
+      "path": "plugins/ecc/ecc/2.2.1/skills/loop-design-check/SKILL.md",
+      "sha256": "fc929d24cdbf2349deb56613d312f4731a911c2bf2d67c3834e9e45614aec658"
+    },
+    {
+      "name": "mailtrap-email-integration",
+      "path": "plugins/ecc/ecc/2.2.1/skills/mailtrap-email-integration/SKILL.md",
+      "sha256": "917fe931b1ce8e796768d71686d4f90b37e413529593e5f7cf108c4c73b35ce4"
+    },
+    {
+      "name": "make-interfaces-feel-better",
+      "path": "plugins/ecc/ecc/2.2.1/skills/make-interfaces-feel-better/SKILL.md",
+      "sha256": "aff91aef917cba9c65681ae77197cee93ce9b697ee8916ea684ef8537c99fb52"
+    },
+    {
+      "name": "manim-video",
+      "path": "plugins/ecc/ecc/2.2.1/skills/manim-video/SKILL.md",
+      "sha256": "bb890b019664a995ca2bf6c08add444a85099caf4c0085de50e9ad6f62d62d5f"
+    },
+    {
+      "name": "market-research",
+      "path": "plugins/ecc/ecc/2.2.1/skills/market-research/SKILL.md",
+      "sha256": "8cfc36dc8a93476d092115f3fc70c631dcab14fcd6e04371160fc4fb29547800"
+    },
+    {
+      "name": "marketing-campaign",
+      "path": "plugins/ecc/ecc/2.2.1/skills/marketing-campaign/SKILL.md",
+      "sha256": "f4d2501b1abb19f7ef5f73b21afa5a7ea51c5dc3d766e8dbd239ec548899213f"
+    },
+    {
+      "name": "mcp-server-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/mcp-server-patterns/SKILL.md",
+      "sha256": "eacb07c953e0440c758e3ee7d92984d2c9128e3444005ea7ad5da7bc0201d43d"
+    },
+    {
+      "name": "messages-ops",
+      "path": "plugins/ecc/ecc/2.2.1/skills/messages-ops/SKILL.md",
+      "sha256": "c2036d3ff01fd13258a2d8af88c04b94f68a10808c799be4e62b975874b263af"
+    },
+    {
+      "name": "ml-adoption-playbook",
+      "path": "plugins/ecc/ecc/2.2.1/skills/ml-adoption-playbook/SKILL.md",
+      "sha256": "488f83a5c3766043e0ff98466f8d5534f69863d9adebda8b4d2903f00860e312"
+    },
+    {
+      "name": "mle-workflow",
+      "path": "plugins/ecc/ecc/2.2.1/skills/mle-workflow/SKILL.md",
+      "sha256": "2497888dd543ca7bdf5d0cb4d90fce023eb2c1c14f860f0af8e8be42423131b4"
+    },
+    {
+      "name": "motion-advanced",
+      "path": "plugins/ecc/ecc/2.2.1/skills/motion-advanced/SKILL.md",
+      "sha256": "1ee09b942bf328ffa97148bed838ecc8789c1891ca441abccdca52b4c47a9742"
+    },
+    {
+      "name": "motion-foundations",
+      "path": "plugins/ecc/ecc/2.2.1/skills/motion-foundations/SKILL.md",
+      "sha256": "ac0dd6de088e8cf2bff57230b365469e893c5f3a9578815a7f113689d0401972"
+    },
+    {
+      "name": "motion-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/motion-patterns/SKILL.md",
+      "sha256": "9d78bcd2c3b52abdb6fb29162f289b9c709547de264ad064b12e00bedb031907"
+    },
+    {
+      "name": "motion-ui",
+      "path": "plugins/ecc/ecc/2.2.1/skills/motion-ui/SKILL.md",
+      "sha256": "0c43aa186d64c5e094de946927581683e986fee496b744bc29433bbad3d169d2"
+    },
+    {
+      "name": "mysql-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/mysql-patterns/SKILL.md",
+      "sha256": "cab57c6a6d7e0bab99329945edda900811c40ec929b47aa95611f9df58f7391d"
+    },
+    {
+      "name": "nanoclaw-repl",
+      "path": "plugins/ecc/ecc/2.2.1/skills/nanoclaw-repl/SKILL.md",
+      "sha256": "459d8467dbd6fb475d49f75124c2c92fb2120cfde3418312b77c575ad723d649"
+    },
+    {
+      "name": "nasiko-control-plane",
+      "path": "plugins/ecc/ecc/2.2.1/skills/nasiko-control-plane/SKILL.md",
+      "sha256": "30cf6f536cb55faa49ac02b22eed0282af4a6a59ce20e087c667bb35ddf4c744"
+    },
+    {
+      "name": "nestjs-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/nestjs-patterns/SKILL.md",
+      "sha256": "7f41406abaf10185d9a784e894108ded771a0177b1051e0b2c65d14f226bd581"
+    },
+    {
+      "name": "netmiko-ssh-automation",
+      "path": "plugins/ecc/ecc/2.2.1/skills/netmiko-ssh-automation/SKILL.md",
+      "sha256": "6dc91c80144c2ad86a5f457c5377dc5193fd0b64dd3e1ca4433f70188a38e104"
+    },
+    {
+      "name": "network-bgp-diagnostics",
+      "path": "plugins/ecc/ecc/2.2.1/skills/network-bgp-diagnostics/SKILL.md",
+      "sha256": "44a8d9ba4644f33cb86227e54641930a280fc4417ebce5c1744985b9f4913d03"
+    },
+    {
+      "name": "network-config-validation",
+      "path": "plugins/ecc/ecc/2.2.1/skills/network-config-validation/SKILL.md",
+      "sha256": "08ba871a685d55e14e0866de27eb98a37ebf91dc2d0d06976c4acb4e99f76550"
+    },
+    {
+      "name": "network-interface-health",
+      "path": "plugins/ecc/ecc/2.2.1/skills/network-interface-health/SKILL.md",
+      "sha256": "612cd44e1b80e10dd56f9a2296348cb48882fe24e2435654dae3b6447555e0a3"
+    },
+    {
+      "name": "nextjs-turbopack",
+      "path": "plugins/ecc/ecc/2.2.1/skills/nextjs-turbopack/SKILL.md",
+      "sha256": "44b68f7c74b237742bee4f39660f8a9160f755004cab0658594fdf494a42e681"
+    },
+    {
+      "name": "nodejs-keccak256",
+      "path": "plugins/ecc/ecc/2.2.1/skills/nodejs-keccak256/SKILL.md",
+      "sha256": "973c1194e28b51f56895617abcbcca82a37d25282e7603700a6bf284459bebdb"
+    },
+    {
+      "name": "nutrient-document-processing",
+      "path": "plugins/ecc/ecc/2.2.1/skills/nutrient-document-processing/SKILL.md",
+      "sha256": "2a8096af72efaeb29a4221929ac1f1ea9d97b95d44316720764fb7c191c7a5b9"
+    },
+    {
+      "name": "nuxt4-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/nuxt4-patterns/SKILL.md",
+      "sha256": "8f99946d5aa8e11dae8ba1ade746a6a803efcba63ba8b618dbf7748331c14e47"
+    },
+    {
+      "name": "openclaw-persona-forge",
+      "path": "plugins/ecc/ecc/2.2.1/skills/openclaw-persona-forge/SKILL.md",
+      "sha256": "3498442cf72ee7efbc4cc56553b48dbbb1a26d1d95eca4037aede69e164a9875"
+    },
+    {
+      "name": "opensource-pipeline",
+      "path": "plugins/ecc/ecc/2.2.1/skills/opensource-pipeline/SKILL.md",
+      "sha256": "7032623ed2108d638c1ce5afa7a0738d632551aea2adc9767385375782993a81"
+    },
+    {
+      "name": "orch-add-feature",
+      "path": "plugins/ecc/ecc/2.2.1/skills/orch-add-feature/SKILL.md",
+      "sha256": "6ba858d94cfaa05f3b1e63ad09656285a4a33009e9cd837ebcaf093d39d29a25"
+    },
+    {
+      "name": "orch-build-mvp",
+      "path": "plugins/ecc/ecc/2.2.1/skills/orch-build-mvp/SKILL.md",
+      "sha256": "b54a9e1819611a2404c6783e743206760f5395faee582d030aa9c11ae9e84cbb"
+    },
+    {
+      "name": "orch-change-feature",
+      "path": "plugins/ecc/ecc/2.2.1/skills/orch-change-feature/SKILL.md",
+      "sha256": "d35ee5dfdf5f64e60e8905124eccf73267bc59852e7d11ba5ca5acf7d765c6f8"
+    },
+    {
+      "name": "orch-fix-defect",
+      "path": "plugins/ecc/ecc/2.2.1/skills/orch-fix-defect/SKILL.md",
+      "sha256": "399e142bbf3751b5a0fdec1ae450f5673bd1a038304a221748c865280e885b2d"
+    },
+    {
+      "name": "orch-pipeline",
+      "path": "plugins/ecc/ecc/2.2.1/skills/orch-pipeline/SKILL.md",
+      "sha256": "a0e647de4f8486cc5d12cf470c1d8c468f7b44ca5e3dc26cd65e50f9012d9cb2"
+    },
+    {
+      "name": "orch-refine-code",
+      "path": "plugins/ecc/ecc/2.2.1/skills/orch-refine-code/SKILL.md",
+      "sha256": "5f0f468ffa4e220bd8f76684b3df6a14b67b34333e1ae52e0de49ed2c16fa17b"
+    },
+    {
+      "name": "parallel-execution-optimizer",
+      "path": "plugins/ecc/ecc/2.2.1/skills/parallel-execution-optimizer/SKILL.md",
+      "sha256": "b44def0f7c24ab2505bd2eee10ceb777d591724dbe32dfdf5220354385e1e3ab"
+    },
+    {
+      "name": "perl-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/perl-patterns/SKILL.md",
+      "sha256": "617ced86628e866a6242ef763ec736d5f7ee3fa0a5afc34236d808db6de9c4b3"
+    },
+    {
+      "name": "perl-security",
+      "path": "plugins/ecc/ecc/2.2.1/skills/perl-security/SKILL.md",
+      "sha256": "fd6dd778ed3b612dd8ee5f856d557b9328a1f92f87d5b69b91a53d58657531f6"
+    },
+    {
+      "name": "perl-testing",
+      "path": "plugins/ecc/ecc/2.2.1/skills/perl-testing/SKILL.md",
+      "sha256": "17723ed2249fa98d4ee7affc53bb479898725eb1a7466d46871bf215317fb79e"
+    },
+    {
+      "name": "plan-canvas",
+      "path": "plugins/ecc/ecc/2.2.1/skills/plan-canvas/SKILL.md",
+      "sha256": "e1167d890b697567858f47e3963c6cc0ab74307572b1df9e11e9c7a33c11c1d1"
+    },
+    {
+      "name": "plan-orchestrate",
+      "path": "plugins/ecc/ecc/2.2.1/skills/plan-orchestrate/SKILL.md",
+      "sha256": "d104fb71594fd9385c4a7c23e4835907be124b8effb34f49fa5cf7d28e3494e3"
+    },
+    {
+      "name": "plankton-code-quality",
+      "path": "plugins/ecc/ecc/2.2.1/skills/plankton-code-quality/SKILL.md",
+      "sha256": "22c6818a532d47b1499fcb40a23749491d5b611c5d56e76b0ed09ba7a67ab57f"
+    },
+    {
+      "name": "postgres-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/postgres-patterns/SKILL.md",
+      "sha256": "9c8c391ae9e9aa87faa7ca091e1d395c97766df14080d0bfbea8a97721776163"
+    },
+    {
+      "name": "prediction-market-oracle-research",
+      "path": "plugins/ecc/ecc/2.2.1/skills/prediction-market-oracle-research/SKILL.md",
+      "sha256": "63f91f6e71839efc4b10be347fa160e402b9b72307f0a7e6ac0a50bd4b9fd8cb"
+    },
+    {
+      "name": "prediction-market-risk-review",
+      "path": "plugins/ecc/ecc/2.2.1/skills/prediction-market-risk-review/SKILL.md",
+      "sha256": "19195e218716ed298fd8de9743e78462d17d95233b14e052c3bd1d1d7df31f91"
+    },
+    {
+      "name": "prisma-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/prisma-patterns/SKILL.md",
+      "sha256": "fb0c7644f32b22ee030071c71fa00bda1825f955f7304a375ef299a7290227f2"
+    },
+    {
+      "name": "product-capability",
+      "path": "plugins/ecc/ecc/2.2.1/skills/product-capability/SKILL.md",
+      "sha256": "c26114356edb15f0340e5af66b6f4444892bdf376b053a7152312fd04d22aced"
+    },
+    {
+      "name": "product-lens",
+      "path": "plugins/ecc/ecc/2.2.1/skills/product-lens/SKILL.md",
+      "sha256": "d082be7c3dd9fed8523ce757a6e2b823a53003d57d2488ead5cec5d5e0a4270f"
+    },
+    {
+      "name": "production-audit",
+      "path": "plugins/ecc/ecc/2.2.1/skills/production-audit/SKILL.md",
+      "sha256": "3ab3dd8a364ee17566e9361f0ebed2aec3b3146ede44e1db0a72c5ceae1ca0a4"
+    },
+    {
+      "name": "production-scheduling",
+      "path": "plugins/ecc/ecc/2.2.1/skills/production-scheduling/SKILL.md",
+      "sha256": "1191c7dc9cf2ed78197cff039e67ec0a08b6118951de1c4fee947cb5e2ac5792"
+    },
+    {
+      "name": "project-flow-ops",
+      "path": "plugins/ecc/ecc/2.2.1/skills/project-flow-ops/SKILL.md",
+      "sha256": "6d59e4118a91419fdc66cf51925371a3f9fad66881c5a1720ed1c5cc490df1f7"
+    },
+    {
+      "name": "prompt-optimizer",
+      "path": "plugins/ecc/ecc/2.2.1/skills/prompt-optimizer/SKILL.md",
+      "sha256": "0a86553a2860d263e3e5cbe5ab42e88971ead105e0bbdcd1613ba2f97d826ef9"
+    },
+    {
+      "name": "python-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/python-patterns/SKILL.md",
+      "sha256": "103e0130dac33a49d26705fc5a2df804980fcab6a0138d65bc7f370a987d49f6"
+    },
+    {
+      "name": "python-testing",
+      "path": "plugins/ecc/ecc/2.2.1/skills/python-testing/SKILL.md",
+      "sha256": "b9f7a158dae3b6c06c9c75ffe84e27a1edc86092d2afdcb39e96fc2569902eb7"
+    },
+    {
+      "name": "pytorch-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/pytorch-patterns/SKILL.md",
+      "sha256": "168c8740f548414a75f576265ddb03329be98ed57f06c5edaf79c7cd4b6a9cf4"
+    },
+    {
+      "name": "quality-nonconformance",
+      "path": "plugins/ecc/ecc/2.2.1/skills/quality-nonconformance/SKILL.md",
+      "sha256": "ac4e11fc75258853091c020471ccceca62d3153a956bba23c29b9adee2f2f6a3"
+    },
+    {
+      "name": "quarkus-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/quarkus-patterns/SKILL.md",
+      "sha256": "5f91bed186170a23837452508fc731ec4cada0a337ae95b1327f80311fa6ab6b"
+    },
+    {
+      "name": "quarkus-security",
+      "path": "plugins/ecc/ecc/2.2.1/skills/quarkus-security/SKILL.md",
+      "sha256": "61e25b00d47d64f0685219988c2605c95a87146bfe0bbb52f1a28d877456d07f"
+    },
+    {
+      "name": "quarkus-tdd",
+      "path": "plugins/ecc/ecc/2.2.1/skills/quarkus-tdd/SKILL.md",
+      "sha256": "556d1c2d04e3e0ef10f474ed413013646088ff057f9be02d3a3c4f833ccc33c5"
+    },
+    {
+      "name": "quarkus-verification",
+      "path": "plugins/ecc/ecc/2.2.1/skills/quarkus-verification/SKILL.md",
+      "sha256": "567633c745c497a8b8f5489d806244772d0c20289b9ff8e26e790f8e6398ff5c"
+    },
+    {
+      "name": "ralphinho-rfc-pipeline",
+      "path": "plugins/ecc/ecc/2.2.1/skills/ralphinho-rfc-pipeline/SKILL.md",
+      "sha256": "44e25676d06f83540c0e1c58bc0be98f906d8523703943093520101bfd47cee8"
+    },
+    {
+      "name": "react-native-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/react-native-patterns/SKILL.md",
+      "sha256": "caf04da7ea1f20213b010f24dc19a8a20f1939c928156caa2f0482f26c31b12b"
+    },
+    {
+      "name": "react-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/react-patterns/SKILL.md",
+      "sha256": "f3208d44a5d553038c42e046cec4dc16e4a3d90a9dbf931f883a2e21919a64a9"
+    },
+    {
+      "name": "react-performance",
+      "path": "plugins/ecc/ecc/2.2.1/skills/react-performance/SKILL.md",
+      "sha256": "ac76e8694d4f802a7bccc3c07a73ac68ace6d82a65ea10f10d8b7384dda61a8f"
+    },
+    {
+      "name": "react-testing",
+      "path": "plugins/ecc/ecc/2.2.1/skills/react-testing/SKILL.md",
+      "sha256": "51c18b4e28285bb876ef469e47c6f53108b5a9f900950a60e897c3c24826a65e"
+    },
+    {
+      "name": "recsys-pipeline-architect",
+      "path": "plugins/ecc/ecc/2.2.1/skills/recsys-pipeline-architect/SKILL.md",
+      "sha256": "309fe65f0ffdb44b62005c63ab9f460ddbe813f994e010316f7a2e55fc52e436"
+    },
+    {
+      "name": "recursive-decision-ledger",
+      "path": "plugins/ecc/ecc/2.2.1/skills/recursive-decision-ledger/SKILL.md",
+      "sha256": "2a7af89f104edb01f33406ba7e7f2d7eb9cd9efb0bd0c8404be0c91947f9325e"
+    },
+    {
+      "name": "redis-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/redis-patterns/SKILL.md",
+      "sha256": "6cabb1cd03174a0584ff3538371c780aba90da156db15260691278ed3307d8fe"
+    },
+    {
+      "name": "regex-vs-llm-structured-text",
+      "path": "plugins/ecc/ecc/2.2.1/skills/regex-vs-llm-structured-text/SKILL.md",
+      "sha256": "35ba82a9b1b7253fd84b6873c4350b974528c744ffd825544f2a4f8ccbef6d44"
+    },
+    {
+      "name": "remotion-video-creation",
+      "path": "plugins/ecc/ecc/2.2.1/skills/remotion-video-creation/SKILL.md",
+      "sha256": "dd727cadc4c1e179932b9736955ff3e537f75eeb759c038345ad9fe7d1bc55a9"
+    },
+    {
+      "name": "repo-scan",
+      "path": "plugins/ecc/ecc/2.2.1/skills/repo-scan/SKILL.md",
+      "sha256": "b3318f6263629467d895d71a281cb64575d9d5de12c96d97cd1d19c66734e98e"
+    },
+    {
+      "name": "research-ops",
+      "path": "plugins/ecc/ecc/2.2.1/skills/research-ops/SKILL.md",
+      "sha256": "114d0e5480ce3ad263316c639ce0c401396e1d9fbec3cf15b3c962ae16f376db"
+    },
+    {
+      "name": "returns-reverse-logistics",
+      "path": "plugins/ecc/ecc/2.2.1/skills/returns-reverse-logistics/SKILL.md",
+      "sha256": "f1e3189fdec11570544f859cb084981ca6b2dfc0ba47764c2bd5e6c3782f2a60"
+    },
+    {
+      "name": "rules-distill",
+      "path": "plugins/ecc/ecc/2.2.1/skills/rules-distill/SKILL.md",
+      "sha256": "c451a63f96077f92ef6b40c4310f5a470a5d05103a181af518b115c4e828292c"
+    },
+    {
+      "name": "rust-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/rust-patterns/SKILL.md",
+      "sha256": "51379df2bd92a482309e109e5a210210842594f660cceeb2d68d18e995108edf"
+    },
+    {
+      "name": "rust-testing",
+      "path": "plugins/ecc/ecc/2.2.1/skills/rust-testing/SKILL.md",
+      "sha256": "02a9a40dcc42dd21d14730d29b13ee0a8b274694360585dc0fadb2602eb56ddf"
+    },
+    {
+      "name": "safety-guard",
+      "path": "plugins/ecc/ecc/2.2.1/skills/safety-guard/SKILL.md",
+      "sha256": "9247b4a05dde847b93d28997477fd3be53dfed967a6279f5d0fc9fab104528ee"
+    },
+    {
+      "name": "santa-method",
+      "path": "plugins/ecc/ecc/2.2.1/skills/santa-method/SKILL.md",
+      "sha256": "190176ee80a72c1642f255a4dfdeb3bb12799212d5c04b05c9be914764749f6b"
+    },
+    {
+      "name": "pubmed-database",
+      "path": "plugins/ecc/ecc/2.2.1/skills/scientific-db-pubmed-database/SKILL.md",
+      "sha256": "516c24ed8c74713191ec2424accf11f8f5518356b046561e5017f40687289838"
+    },
+    {
+      "name": "uspto-database",
+      "path": "plugins/ecc/ecc/2.2.1/skills/scientific-db-uspto-database/SKILL.md",
+      "sha256": "96849e8dc762df699fea11a283e9424660dd3b606e7e513617e4e9a9ce2011be"
+    },
+    {
+      "name": "gget",
+      "path": "plugins/ecc/ecc/2.2.1/skills/scientific-pkg-gget/SKILL.md",
+      "sha256": "8338ad65c24cd95a622cd9ffb947cb54478645ed0713519b49174a96439ec9fe"
+    },
+    {
+      "name": "literature-review",
+      "path": "plugins/ecc/ecc/2.2.1/skills/scientific-thinking-literature-review/SKILL.md",
+      "sha256": "456e7ef6b33300bfefeeee46fc8dae55fec62e4a8b418ba2323e12779de70195"
+    },
+    {
+      "name": "scholar-evaluation",
+      "path": "plugins/ecc/ecc/2.2.1/skills/scientific-thinking-scholar-evaluation/SKILL.md",
+      "sha256": "e9f8a3bce2bce769a96611a52804a2b3955f2796ee2749bc8275aea38a26cd2d"
+    },
+    {
+      "name": "search-first",
+      "path": "plugins/ecc/ecc/2.2.1/skills/search-first/SKILL.md",
+      "sha256": "d66d744228b9cf860acf35f8a90cbbe8195e61367860da9d3632f9fc65706733"
+    },
+    {
+      "name": "security-bounty-hunter",
+      "path": "plugins/ecc/ecc/2.2.1/skills/security-bounty-hunter/SKILL.md",
+      "sha256": "c94945165ca16ec06a04727dcbcf7a7593810d83fe168247c9c2d88c5a078611"
+    },
+    {
+      "name": "security-review",
+      "path": "plugins/ecc/ecc/2.2.1/skills/security-review/SKILL.md",
+      "sha256": "fe6f9151fb15c1dffd47a55080c3ad147af7c95dd0ad3714735dec6824b060b7"
+    },
+    {
+      "name": "security-scan",
+      "path": "plugins/ecc/ecc/2.2.1/skills/security-scan/SKILL.md",
+      "sha256": "74bc3006fb15eef9cea6bf70a4e9cc45ec118ef00733d1c8226c9dc428f8d658"
+    },
+    {
+      "name": "seo",
+      "path": "plugins/ecc/ecc/2.2.1/skills/seo/SKILL.md",
+      "sha256": "4b744d2ff5c9313e903e4e5139322cc98adb9f9778a7231d4826216ab0f6873a"
+    },
+    {
+      "name": "skill-comply",
+      "path": "plugins/ecc/ecc/2.2.1/skills/skill-comply/SKILL.md",
+      "sha256": "e26cbbc30a32ea8c76c56d09ba9a3a921e82ad6e2360f825ec63d3f8df6b1f5a"
+    },
+    {
+      "name": "skill-scout",
+      "path": "plugins/ecc/ecc/2.2.1/skills/skill-scout/SKILL.md",
+      "sha256": "71b1e8a4aedebeaf4468838389c0a93e4d3bf4e2779bd0a99e0396b045f82d32"
+    },
+    {
+      "name": "skill-stocktake",
+      "path": "plugins/ecc/ecc/2.2.1/skills/skill-stocktake/SKILL.md",
+      "sha256": "aa8f287c48c5a33bf15094358ffccbe0d4faff9eee9fa2ffcd70c8e9f3d22cdd"
+    },
+    {
+      "name": "social-graph-ranker",
+      "path": "plugins/ecc/ecc/2.2.1/skills/social-graph-ranker/SKILL.md",
+      "sha256": "24657648f76eb7b835fa71275980e704ebf798853565856623c1e3cd4fd7a183"
+    },
+    {
+      "name": "social-publisher",
+      "path": "plugins/ecc/ecc/2.2.1/skills/social-publisher/SKILL.md",
+      "sha256": "c2fde5ac9d953cb649ce69331ca49be1df854d051ebc31eb54423c5d262337f6"
+    },
+    {
+      "name": "springboot-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/springboot-patterns/SKILL.md",
+      "sha256": "ff1884a8492d078d1bbb35f3ce0a8ae25f1ad95dab8596f4944a7c3110680946"
+    },
+    {
+      "name": "springboot-security",
+      "path": "plugins/ecc/ecc/2.2.1/skills/springboot-security/SKILL.md",
+      "sha256": "566ecf928bf76812d15efd62e2f00841652e1618f0a97d8dda93e1c247a162c5"
+    },
+    {
+      "name": "springboot-tdd",
+      "path": "plugins/ecc/ecc/2.2.1/skills/springboot-tdd/SKILL.md",
+      "sha256": "e4bd145484d93fb569eb0e1a09ffeb5cca68533d63c83805146b111c48bba172"
+    },
+    {
+      "name": "springboot-verification",
+      "path": "plugins/ecc/ecc/2.2.1/skills/springboot-verification/SKILL.md",
+      "sha256": "6797bb91f5b122f84a8490099d997d7339cf8c65f66b15049a9cfa6e8ce213d0"
+    },
+    {
+      "name": "strategic-compact",
+      "path": "plugins/ecc/ecc/2.2.1/skills/strategic-compact/SKILL.md",
+      "sha256": "44a71c6dcc3fdde8061b8a78296c5d37233e4accc8cf3c794e29ac5b9f2eee28"
+    },
+    {
+      "name": "swift-actor-persistence",
+      "path": "plugins/ecc/ecc/2.2.1/skills/swift-actor-persistence/SKILL.md",
+      "sha256": "438f75a3f37db2b8db699fb5d27a7207d0f31eace31d057b775ad152d6462c5c"
+    },
+    {
+      "name": "swift-concurrency-6-2",
+      "path": "plugins/ecc/ecc/2.2.1/skills/swift-concurrency-6-2/SKILL.md",
+      "sha256": "00aed6a804ff7dc9b37d119cdb115d0869643dd84caf3c01d7f058398ab1955a"
+    },
+    {
+      "name": "swift-protocol-di-testing",
+      "path": "plugins/ecc/ecc/2.2.1/skills/swift-protocol-di-testing/SKILL.md",
+      "sha256": "1e0b9fddf0a731956cdc686fb55dfa1862a5f172a5140299f4ec9d95c7a5e6e9"
+    },
+    {
+      "name": "swiftui-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/swiftui-patterns/SKILL.md",
+      "sha256": "79e3c8b5b7c38fa04778b1084cddc2f8db5f671e682b0e9c1d5bd2f95800f690"
+    },
+    {
+      "name": "taste",
+      "path": "plugins/ecc/ecc/2.2.1/skills/taste/SKILL.md",
+      "sha256": "0b8683366ab51d4d45882710c9086ca43123eae25484838c7c290bdd4568bb32"
+    },
+    {
+      "name": "tasteforge-video",
+      "path": "plugins/ecc/ecc/2.2.1/skills/tasteforge-video/SKILL.md",
+      "sha256": "f1610b6385e6fd505252488f91d8e1b7e822830e1ebb61e4c3e50c416a655986"
+    },
+    {
+      "name": "tdd-workflow",
+      "path": "plugins/ecc/ecc/2.2.1/skills/tdd-workflow/SKILL.md",
+      "sha256": "e3a0051a99e82f7047b29a2a98c662d8ef8d0ede186acc085436fced7f2591b7"
+    },
+    {
+      "name": "team-agent-orchestration",
+      "path": "plugins/ecc/ecc/2.2.1/skills/team-agent-orchestration/SKILL.md",
+      "sha256": "4fc52cb4eaba14f8a08ede50423a8be9198175e6c9b5dbbdfb3d00aa81c75055"
+    },
+    {
+      "name": "team-builder",
+      "path": "plugins/ecc/ecc/2.2.1/skills/team-builder/SKILL.md",
+      "sha256": "87d2f35b976616f505684db89a6f93ebba3c47020ce2b23d893e2eaf45ca009a"
+    },
+    {
+      "name": "terminal-opener",
+      "path": "plugins/ecc/ecc/2.2.1/skills/terminal-opener/SKILL.md",
+      "sha256": "679b8aca9af3f47450d437fed7a71ac9c1272b6196224ddad8fead218f5f16ab"
+    },
+    {
+      "name": "terminal-ops",
+      "path": "plugins/ecc/ecc/2.2.1/skills/terminal-ops/SKILL.md",
+      "sha256": "f26e518e6922fe0796f5b6a55349a409f5b03745c4eeed9be80b4c66d890d852"
+    },
+    {
+      "name": "tinystruct-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/tinystruct-patterns/SKILL.md",
+      "sha256": "6f5d16090aa5b1913002480ecfb00feb3ad894a05c9b84d8f3645e2297b6024b"
+    },
+    {
+      "name": "token-budget-advisor",
+      "path": "plugins/ecc/ecc/2.2.1/skills/token-budget-advisor/SKILL.md",
+      "sha256": "d092defef257ce470bf364c55a2f2a51cdb37655779a66f1993cbd4295317d03"
+    },
+    {
+      "name": "ui-demo",
+      "path": "plugins/ecc/ecc/2.2.1/skills/ui-demo/SKILL.md",
+      "sha256": "893eee77f98f52d28bffa6bbababa7481300cc13535dea519fa0cc1b0168b2f8"
+    },
+    {
+      "name": "ui-to-vue",
+      "path": "plugins/ecc/ecc/2.2.1/skills/ui-to-vue/SKILL.md",
+      "sha256": "cb6c17f7ae28a53b31fb2904180521ccdaa31ad0deafa96c6b4f5b2f4bfea480"
+    },
+    {
+      "name": "uncloud",
+      "path": "plugins/ecc/ecc/2.2.1/skills/uncloud/SKILL.md",
+      "sha256": "cc2383ca4459a686ccda87ac08b2a1953028d91076e6a83f29e4c99de5f2fb7f"
+    },
+    {
+      "name": "unified-memory",
+      "path": "plugins/ecc/ecc/2.2.1/skills/unified-memory/SKILL.md",
+      "sha256": "a6eb9a96b92dfd4a700bceff15195ca1fd4b7fad2944bb014c08812d1a0dc8b0"
+    },
+    {
+      "name": "unified-notifications-ops",
+      "path": "plugins/ecc/ecc/2.2.1/skills/unified-notifications-ops/SKILL.md",
+      "sha256": "0ade130619dfc73781d6a4beaf79b65b6d3ac70f0751dce0844a8f9fd39167aa"
+    },
+    {
+      "name": "verification-loop",
+      "path": "plugins/ecc/ecc/2.2.1/skills/verification-loop/SKILL.md",
+      "sha256": "f0d56107f79e607d4de6c5543b8edfb1b58ab9ae4019b39831689cd91116543e"
+    },
+    {
+      "name": "video-editing",
+      "path": "plugins/ecc/ecc/2.2.1/skills/video-editing/SKILL.md",
+      "sha256": "828d210fa227d83dfdc234f89e39b0b2a5ce4883494e3a5049acea754b0986cc"
+    },
+    {
+      "name": "videodb",
+      "path": "plugins/ecc/ecc/2.2.1/skills/videodb/SKILL.md",
+      "sha256": "1d252c32d309be70786e5b97e40423ec654c6ec1e61180499449b4b52e624798"
+    },
+    {
+      "name": "visa-doc-translate",
+      "path": "plugins/ecc/ecc/2.2.1/skills/visa-doc-translate/SKILL.md",
+      "sha256": "56699405b7ed8ae0641c5e823ce29010d454915e9128c45471b27b91df26a4f9"
+    },
+    {
+      "name": "vite-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/vite-patterns/SKILL.md",
+      "sha256": "2238d353196b6732ba897e32f1872078fde7a9d11f5aca43b53da8bfc7e3917d"
+    },
+    {
+      "name": "vue-patterns",
+      "path": "plugins/ecc/ecc/2.2.1/skills/vue-patterns/SKILL.md",
+      "sha256": "65e322383510de25bd5fc6fce4b0980d99d38b341f09bea662bd9a410e20c016"
+    },
+    {
+      "name": "windows-desktop-e2e",
+      "path": "plugins/ecc/ecc/2.2.1/skills/windows-desktop-e2e/SKILL.md",
+      "sha256": "cbc93a1e2514ecdcee30da744aa13eb6c0ebe4948ca3dfff52b287df4f9f0814"
+    },
+    {
+      "name": "workspace-surface-audit",
+      "path": "plugins/ecc/ecc/2.2.1/skills/workspace-surface-audit/SKILL.md",
+      "sha256": "ca6eadae6bd303713da56344bedbd8b246fe07bde1d20a26c9f21844d919cd6f"
+    },
+    {
+      "name": "x-api",
+      "path": "plugins/ecc/ecc/2.2.1/skills/x-api/SKILL.md",
+      "sha256": "997937ac9dc11779c6bb6c16833630836a22f1b2f115482982f6350474fa8ff1"
+    },
+    {
+      "name": "idapython",
+      "path": "plugins/mrexodia/ida-pro-mcp/0.1.0/skills/idapython/SKILL.md",
+      "sha256": "421e209611d04299458034e03d9ff214d443f5bfef0403f3ffbebf35c79c61b1"
+    },
+    {
+      "name": "computer-history",
+      "path": "plugins/openai-bundled/computer-history/1.0.1000926/skills/computer-history/SKILL.md",
+      "sha256": "7595b819ad985d0d739e2dfa26fc19ec3a7413aa6a861bbc2db5f60466fdefc8"
+    },
+    {
+      "name": "sites-building",
+      "path": "plugins/openai-bundled/sites/0.1.57/skills/sites-building/SKILL.md",
+      "sha256": "7d69bd668238b0344c5470876ed324b78dfe6ed053487edf4f3233345479842f"
+    },
+    {
+      "name": "sites-hosting",
+      "path": "plugins/openai-bundled/sites/0.1.57/skills/sites-hosting/SKILL.md",
+      "sha256": "a94792641384391d45edb3a45e30cd7c3db58d88c63d94e0b2111ffc485aaf72"
+    },
+    {
+      "name": "visualize",
+      "path": "plugins/openai-bundled/visualize/1.0.29/skills/visualize/SKILL.md",
+      "sha256": "be82c4e573ffe2fc0921a10f49eb690ce6f7c8a06acffb2789600be677720d05"
+    },
+    {
+      "name": "gmail",
+      "path": "plugins/openai-curated/gmail/11c74d6b/skills/gmail/SKILL.md",
+      "sha256": "3e8c0052dfd397f66d756626c18d695c6289c19da6909b1b6c65dadeb03fc678"
+    },
+    {
+      "name": "gmail-inbox-triage",
+      "path": "plugins/openai-curated/gmail/11c74d6b/skills/gmail-inbox-triage/SKILL.md",
+      "sha256": "1ce1ef20bbe99da3e824818e397e50c33238666e528fed8e9ec46250585ec5cc"
+    },
+    {
+      "name": "google-docs",
+      "path": "plugins/openai-curated/google-drive/11c74d6b/skills/google-docs/SKILL.md",
+      "sha256": "69cf5d43a24eaef327bbfad44ee7d2e5629ee621b4ed2bbde4d78afd536f5fe5"
+    },
+    {
+      "name": "google-drive",
+      "path": "plugins/openai-curated/google-drive/11c74d6b/skills/google-drive/SKILL.md",
+      "sha256": "4766e7fe25e6a5bf495028147f8108633bc5297d57f2a8864a2a76e5e78763ee"
+    },
+    {
+      "name": "google-drive-comments",
+      "path": "plugins/openai-curated/google-drive/11c74d6b/skills/google-drive-comments/SKILL.md",
+      "sha256": "a3077375a8f7558b9e052c98047747b8a4a1a90a9a90b552009c28fcdadfe94a"
+    },
+    {
+      "name": "google-sheets",
+      "path": "plugins/openai-curated/google-drive/11c74d6b/skills/google-sheets/SKILL.md",
+      "sha256": "39aac7f189cd19a21cc895a48700ee4d973fda3bca86253345806227f75f8bb2"
+    },
+    {
+      "name": "google-slides",
+      "path": "plugins/openai-curated/google-drive/11c74d6b/skills/google-slides/SKILL.md",
+      "sha256": "f1a7954fb87ffa5353e0ecb97ae4f484c4ade70fafede68ec392085b73ccc292"
+    },
+    {
+      "name": "adobe-batch-edit-photos",
+      "path": "plugins/openai-curated-remote/app-69312da8e4dc81919370cb86fd172b6c/8.0.0/skills/adobe-batch-edit-photos/SKILL.md",
+      "sha256": "062112a424340bef585f0c3aed9a484721ff4b200044883dd0bdb1dd7599642c"
+    },
+    {
+      "name": "adobe-create-mockups",
+      "path": "plugins/openai-curated-remote/app-69312da8e4dc81919370cb86fd172b6c/8.0.0/skills/adobe-create-mockups/SKILL.md",
+      "sha256": "65a8fd58c8495210296eb1da51d0846d1ad9a7cf80a286ea4220874c0f4e56f2"
+    },
+    {
+      "name": "adobe-create-social-variations",
+      "path": "plugins/openai-curated-remote/app-69312da8e4dc81919370cb86fd172b6c/8.0.0/skills/adobe-create-social-variations/SKILL.md",
+      "sha256": "f2404147b9a05f7d759d8a7c0c51af06f9841ad55025395a887d27429be6d63d"
+    },
+    {
+      "name": "adobe-design-from-template",
+      "path": "plugins/openai-curated-remote/app-69312da8e4dc81919370cb86fd172b6c/8.0.0/skills/adobe-design-from-template/SKILL.md",
+      "sha256": "11d9eaed34c526b350185c298d8dd3c764d3cebeb111905f59230d3b3c291207"
+    },
+    {
+      "name": "adobe-edit-quick-cut",
+      "path": "plugins/openai-curated-remote/app-69312da8e4dc81919370cb86fd172b6c/8.0.0/skills/adobe-edit-quick-cut/SKILL.md",
+      "sha256": "5515014c80995b846dfe511058f507beeedb428078fda1bd60d47531f51b5500"
+    },
+    {
+      "name": "adobe-retouch-portraits",
+      "path": "plugins/openai-curated-remote/app-69312da8e4dc81919370cb86fd172b6c/8.0.0/skills/adobe-retouch-portraits/SKILL.md",
+      "sha256": "c35b690c539285cb72204431d2f86f0e753ff6f862398e1437edebd8ca8cdeaf"
+    },
+    {
+      "name": "analyze-data-quality",
+      "path": "plugins/openai-curated-remote/data-analytics/0.2.10-13ceeea1f599/skills/analyze-data-quality/SKILL.md",
+      "sha256": "9a3c994f87da0c7a8c5ce37bbf08a59fc6f5b4f368475d3d7438f622b753d5f0"
+    },
+    {
+      "name": "build-dashboard",
+      "path": "plugins/openai-curated-remote/data-analytics/0.2.10-13ceeea1f599/skills/build-dashboard/SKILL.md",
+      "sha256": "c453ef3e1187477f696aae9a68b116d0e7e0bd6f665ab03a9d1634d13482aaaa"
+    },
+    {
+      "name": "build-report",
+      "path": "plugins/openai-curated-remote/data-analytics/0.2.10-13ceeea1f599/skills/build-report/SKILL.md",
+      "sha256": "03db47974dc400b026d9268730de1ef317b5446a7a6bc9906ad471bfb117fd22"
+    },
+    {
+      "name": "report-to-google-doc",
+      "path": "plugins/openai-curated-remote/data-analytics/0.2.10-13ceeea1f599/skills/build-report/report-to-google-doc/SKILL.md",
+      "sha256": "0fac3acf39e180a8ee398c837cd40289c5e0f72473ef3788be623cb68e703a1f"
+    },
+    {
+      "name": "report-to-google-slides",
+      "path": "plugins/openai-curated-remote/data-analytics/0.2.10-13ceeea1f599/skills/build-report/report-to-google-slides/SKILL.md",
+      "sha256": "4dd1c74a3fc5284c3bf69500ff82213c0849663d15b79579e1e950cfa2558d2d"
+    },
+    {
+      "name": "report-to-pdf",
+      "path": "plugins/openai-curated-remote/data-analytics/0.2.10-13ceeea1f599/skills/build-report/report-to-pdf/SKILL.md",
+      "sha256": "ef65a78de9ca425698b529cbdaea7e6323ec6a704cbc10f070920ee6e8d11d57"
+    },
+    {
+      "name": "create-data-context",
+      "path": "plugins/openai-curated-remote/data-analytics/0.2.10-13ceeea1f599/skills/create-data-context/SKILL.md",
+      "sha256": "b004f792fa63e639dbce197562c97230eb58250e639b6bbe926085e3a44b0c2b"
+    },
+    {
+      "name": "design-kpis",
+      "path": "plugins/openai-curated-remote/data-analytics/0.2.10-13ceeea1f599/skills/design-kpis/SKILL.md",
+      "sha256": "fcefdecacd1d64f847fbb7c45e93a6bd49c679dff66b8966ebc74c4dc39b8f21"
+    },
+    {
+      "name": "gather-business-context",
+      "path": "plugins/openai-curated-remote/data-analytics/0.2.10-13ceeea1f599/skills/gather-business-context/SKILL.md",
+      "sha256": "e8a1e917b8c4d03248987f33ca49fb7b1d6ed533328c39a02cafcc5b88b4577c"
+    },
+    {
+      "name": "index",
+      "path": "plugins/openai-curated-remote/data-analytics/0.2.10-13ceeea1f599/skills/index/SKILL.md",
+      "sha256": "2239188d6ac667a9e4b546ffb441f17ac3cfe90fe7683ac68506789ef8dabeb3"
+    },
+    {
+      "name": "jupyter-notebooks",
+      "path": "plugins/openai-curated-remote/data-analytics/0.2.10-13ceeea1f599/skills/jupyter-notebooks/SKILL.md",
+      "sha256": "8303d33041a5d5ccbfbb5addbb60bd8b0559027f01a586f98b7728e58c4127ed"
+    },
+    {
+      "name": "kpi-reporting",
+      "path": "plugins/openai-curated-remote/data-analytics/0.2.10-13ceeea1f599/skills/kpi-reporting/SKILL.md",
+      "sha256": "a4ee918f3c87af4db8bb007cf8fefec444cd47b96b76de711349f11d7232861a"
+    },
+    {
+      "name": "market-sizing",
+      "path": "plugins/openai-curated-remote/data-analytics/0.2.10-13ceeea1f599/skills/market-sizing/SKILL.md",
+      "sha256": "dd353ab8c7229d3bc831234725db7d02ceeb1a889ee781103f90997879ac1951"
+    },
+    {
+      "name": "metric-diagnostics",
+      "path": "plugins/openai-curated-remote/data-analytics/0.2.10-13ceeea1f599/skills/metric-diagnostics/SKILL.md",
+      "sha256": "c9293227b592328c06cb9f6a2f23c0114ddcd1ca456a42f1ceebfe5981007314"
+    },
+    {
+      "name": "product-business-analysis",
+      "path": "plugins/openai-curated-remote/data-analytics/0.2.10-13ceeea1f599/skills/product-business-analysis/SKILL.md",
+      "sha256": "3e6b684ace151bbf777afd88fe34758b337ac0d6ff2bf332958d7a495d624a4b"
+    },
+    {
+      "name": "publish-artifact-to-sites",
+      "path": "plugins/openai-curated-remote/data-analytics/0.2.10-13ceeea1f599/skills/publish-artifact-to-sites/SKILL.md",
+      "sha256": "26b3846191d1c5237262a26da61694aa67bef38c4ed03eb3167e39f39c6f07a3"
+    },
+    {
+      "name": "validate-data",
+      "path": "plugins/openai-curated-remote/data-analytics/0.2.10-13ceeea1f599/skills/validate-data/SKILL.md",
+      "sha256": "7aa5c77b22b9e5bf1b054e4ab6320a12dfd5342aa6cb18f8e497b46c713be20e"
+    },
+    {
+      "name": "visualize-data",
+      "path": "plugins/openai-curated-remote/data-analytics/0.2.10-13ceeea1f599/skills/visualize-data/SKILL.md",
+      "sha256": "ff2601669022a2ef43524e0225eb4833acc03260db90b996a2d6f74fbbce7b12"
+    },
+    {
+      "name": "deep-research",
+      "path": "plugins/openai-curated-remote/deep-research-work/0.1.14/skills/deep-research/SKILL.md",
+      "sha256": "c7b924a736d715bf90941c5e75460b3387ec90b1fdb3a7c79d3e9bfb10427dc6"
+    },
+    {
+      "name": "google-docs",
+      "path": "plugins/openai-curated-remote/google-drive/0.1.16/skills/google-docs/SKILL.md",
+      "sha256": "8e5c26053d800e2980b74ab82c2ce95db94a17fbb443f8f6e30baeb442f1d464"
+    },
+    {
+      "name": "google-drive",
+      "path": "plugins/openai-curated-remote/google-drive/0.1.16/skills/google-drive/SKILL.md",
+      "sha256": "dabae8a192c861b76cf7b5742bdf14f8ed35e67d8e6cacfd5f746ffbefd6da5c"
+    },
+    {
+      "name": "google-drive-comments",
+      "path": "plugins/openai-curated-remote/google-drive/0.1.16/skills/google-drive-comments/SKILL.md",
+      "sha256": "a3077375a8f7558b9e052c98047747b8a4a1a90a9a90b552009c28fcdadfe94a"
+    },
+    {
+      "name": "google-sheets",
+      "path": "plugins/openai-curated-remote/google-drive/0.1.16/skills/google-sheets/SKILL.md",
+      "sha256": "54d160c27532e4ff610e9c5a7870fb80dc496b2d1d3f302996c21c505419c862"
+    },
+    {
+      "name": "google-slides",
+      "path": "plugins/openai-curated-remote/google-drive/0.1.16/skills/google-slides/SKILL.md",
+      "sha256": "fd14974d7c4ea9ff134bcc21cd32b2b1d61eeaa77c6dc757075b07eef6bedbdb"
+    },
+    {
+      "name": "artifact-template-analytics-dashboard",
+      "path": "plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-analytics-dashboard/SKILL.md",
+      "sha256": "cf5360fd8b197673bb237c52c603c97fa319c875c3dfa2cd8efff52d4422f513"
+    },
+    {
+      "name": "artifact-template-business-review",
+      "path": "plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-business-review/SKILL.md",
+      "sha256": "27721fc1d67d1b41949caa75ac8f94f81952ff124406878af6524047929e60d2"
+    },
+    {
+      "name": "artifact-template-design-report",
+      "path": "plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-design-report/SKILL.md",
+      "sha256": "563722f53854e606f8a9f87e37e72d7ef70a22d46d5836b8e4d6abfb1b79e9e0"
+    },
+    {
+      "name": "artifact-template-experiment-analysis",
+      "path": "plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-experiment-analysis/SKILL.md",
+      "sha256": "0b05effc47df0a14f8e0c3e3597e6722224747435546385d38a2cae279bd20b9"
+    },
+    {
+      "name": "artifact-template-financial-budget",
+      "path": "plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-financial-budget/SKILL.md",
+      "sha256": "c0b6b7a62a15597aaf2b1ec679e21da48f533b756127f0aef957cdfe9f3da738"
+    },
+    {
+      "name": "artifact-template-investment-committee-memo",
+      "path": "plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-investment-committee-memo/SKILL.md",
+      "sha256": "68abd08cfe5e073e3c446a3f675f44c5bf98f57434dba679e8acd8a763379a8b"
+    },
+    {
+      "name": "artifact-template-legal-memorandum",
+      "path": "plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-legal-memorandum/SKILL.md",
+      "sha256": "51fb9d21baf6119c4ccb1903638a6bac0e859210de63460fffa7025d52e997e0"
+    },
+    {
+      "name": "artifact-template-market-trends-report",
+      "path": "plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-market-trends-report/SKILL.md",
+      "sha256": "d58d019b89cb6f292ac3ab991d561489eef477ff53ce05fb024a0c936f5af26a"
+    },
+    {
+      "name": "artifact-template-minimal-letterhead",
+      "path": "plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-minimal-letterhead/SKILL.md",
+      "sha256": "880ef094d4d0c89a7bde5ce9bbe4086625c186651e9e6efc8ba8bdd7cc77f9d5"
+    },
+    {
+      "name": "artifact-template-operating-calendar",
+      "path": "plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-operating-calendar/SKILL.md",
+      "sha256": "33bb660791a0b9a21628a42c34934932220203b6aabd84e98cb1b45327d0384c"
+    },
+    {
+      "name": "artifact-template-operating-review",
+      "path": "plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-operating-review/SKILL.md",
+      "sha256": "6d63c5cd025ffe936e7bab5db3023672bbaec26af55c2bb8b057d38c202c9c32"
+    },
+    {
+      "name": "artifact-template-project-kickoff",
+      "path": "plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-project-kickoff/SKILL.md",
+      "sha256": "aa893ebd89e7c8d1db4261d01cc2b1add35d78d00785871ccaaa5fc8db783ec9"
+    },
+    {
+      "name": "artifact-template-project-tracker",
+      "path": "plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-project-tracker/SKILL.md",
+      "sha256": "d97d5be20189b7f53dd269b6e1c5f694eaf53e5a72f6559fcb1578911b7cda82"
+    },
+    {
+      "name": "artifact-template-sales-pipeline",
+      "path": "plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-sales-pipeline/SKILL.md",
+      "sha256": "15cfeeedf440021f16ed3f3ad8c7c1ef6d48898b9447741e223d2fb41cfc9800"
+    },
+    {
+      "name": "artifact-template-simple-dark-mode",
+      "path": "plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-simple-dark-mode/SKILL.md",
+      "sha256": "b7c8d0c05f75878b9bc21e56a57c41ec1aa29700aca0a24822be0f9f1bd53207"
+    },
+    {
+      "name": "artifact-template-simple-light-mode",
+      "path": "plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-simple-light-mode/SKILL.md",
+      "sha256": "7c68430c6cf57b55b457d4735dbd1a46b889bef135a32222902dd0848b6e1752"
+    },
+    {
+      "name": "artifact-template-strategy-memorandum",
+      "path": "plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-strategy-memorandum/SKILL.md",
+      "sha256": "51d7882ac94e8e57b323394825728c33925af878806e37277217c2dc12a912e5"
+    },
+    {
+      "name": "artifact-template-system-design",
+      "path": "plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-system-design/SKILL.md",
+      "sha256": "87f7b7ed1b0d8410f5e5971cd7f7db9a4165e2f37069e97e52dbfb469b75a57c"
+    },
+    {
+      "name": "artifact-template-team-alignment",
+      "path": "plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-team-alignment/SKILL.md",
+      "sha256": "26d7cafdcd1899a937b325c5d02ac57c162d45002153be33a934d35f81eb6110"
+    },
+    {
+      "name": "artifact-template-three-statement-forecast",
+      "path": "plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-three-statement-forecast/SKILL.md",
+      "sha256": "74f4a5cccec0107b861548b157e04c51d9b58ec13a990c86394b4c529b8ecf41"
+    },
+    {
+      "name": "plugin-management",
+      "path": "plugins/openai-curated-remote/plugin-management/0.1.0/skills/plugin-management/SKILL.md",
+      "sha256": "653841cc21205269f08b0ce135891e1518dac616a766bcfb0b57d788d3f68b10"
+    },
+    {
+      "name": "documents",
+      "path": "plugins/openai-primary-runtime/documents/26.905.11957/skills/documents/SKILL.md",
+      "sha256": "c6ad99c5c601186f63e4849e89d59e800f32500fe7bdad012b5309c6958f94ac"
+    },
+    {
+      "name": "pdf",
+      "path": "plugins/openai-primary-runtime/pdf/26.905.11957/skills/pdf/SKILL.md",
+      "sha256": "afc4472ec4d625f703e9f414fe6814ce3cfa0ec51c7a07887fe587264c8b561e"
+    },
+    {
+      "name": "Presentations",
+      "path": "plugins/openai-primary-runtime/presentations/26.905.11957/skills/presentations/SKILL.md",
+      "sha256": "4b40a55cd7747ed101498889b1dbb63f05aae478d44af96423657888e33b48ae"
+    },
+    {
+      "name": "excel-live-control",
+      "path": "plugins/openai-primary-runtime/spreadsheets/26.905.11957/skills/excel-live-control/SKILL.md",
+      "sha256": "cdc929cabe81c31e87a2df032ee5bb2ab1857eb78bcb6eb9e51ced4b1b65a863"
+    },
+    {
+      "name": "Spreadsheets",
+      "path": "plugins/openai-primary-runtime/spreadsheets/26.905.11957/skills/spreadsheets/SKILL.md",
+      "sha256": "d5d9e4b1863527e2577106e324815cc5c498bd9d8af304ad2f210c2ede985b39"
+    },
+    {
+      "name": "template-creator",
+      "path": "plugins/openai-primary-runtime/template-creator/26.905.11957/skills/template-creator/SKILL.md",
+      "sha256": "f1d14fd2847a2e879611a8b8f872f5dc4676a0607958d015274d2dc61e812deb"
+    },
+    {
+      "name": "brainstorming",
+      "path": "plugins/superpowers-dev/superpowers/6.3.0/skills/brainstorming/SKILL.md",
+      "sha256": "74edf03ea6d24ef53db48677b93558d14a979bdf052ca3f57ecdca0c66791608"
+    },
+    {
+      "name": "dispatching-parallel-agents",
+      "path": "plugins/superpowers-dev/superpowers/6.3.0/skills/dispatching-parallel-agents/SKILL.md",
+      "sha256": "1968923066f3b707eb01d1992cdf4c42284c3855f70253b9cd5000ff45fca13c"
+    },
+    {
+      "name": "executing-plans",
+      "path": "plugins/superpowers-dev/superpowers/6.3.0/skills/executing-plans/SKILL.md",
+      "sha256": "c4c3d8b628c51114cd165fb8246fe02744cd8be180032328391252e653028d9b"
+    },
+    {
+      "name": "finishing-a-development-branch",
+      "path": "plugins/superpowers-dev/superpowers/6.3.0/skills/finishing-a-development-branch/SKILL.md",
+      "sha256": "8db5a922b242dd4e1bf824cb91c13b3e8d8e8a86d6ceaf7f0774eb9cce909d65"
+    },
+    {
+      "name": "receiving-code-review",
+      "path": "plugins/superpowers-dev/superpowers/6.3.0/skills/receiving-code-review/SKILL.md",
+      "sha256": "091df1629510af1b92fc4abd6f96732ebedb4cb2c0f3457e8f2740b0504a2438"
+    },
+    {
+      "name": "requesting-code-review",
+      "path": "plugins/superpowers-dev/superpowers/6.3.0/skills/requesting-code-review/SKILL.md",
+      "sha256": "d71cc01ba56d2325cf8af5f7c11837819b63ecd57de0bfdb812f7f3ff7751df8"
+    },
+    {
+      "name": "subagent-driven-development",
+      "path": "plugins/superpowers-dev/superpowers/6.3.0/skills/subagent-driven-development/SKILL.md",
+      "sha256": "8dd1b8e698edec3700c6d89517dbe96febd3bacd3f6ea21c1a3569c62ea104b5"
+    },
+    {
+      "name": "systematic-debugging",
+      "path": "plugins/superpowers-dev/superpowers/6.3.0/skills/systematic-debugging/SKILL.md",
+      "sha256": "808fc5717aa88ad65efff312b11c186294d3e6ee301afb584e2f86599b137787"
+    },
+    {
+      "name": "test-driven-development",
+      "path": "plugins/superpowers-dev/superpowers/6.3.0/skills/test-driven-development/SKILL.md",
+      "sha256": "bf1b8216e523851a411e91d429a7c1c2a173e79d88957bc78e348218d50edd54"
+    },
+    {
+      "name": "using-git-worktrees",
+      "path": "plugins/superpowers-dev/superpowers/6.3.0/skills/using-git-worktrees/SKILL.md",
+      "sha256": "8cfb86f121269e8f7f12361e6795c4f6738828340e28964c9229d365666c9edd"
+    },
+    {
+      "name": "using-superpowers",
+      "path": "plugins/superpowers-dev/superpowers/6.3.0/skills/using-superpowers/SKILL.md",
+      "sha256": "30f2ab78e20ddc27ee7158ae8d4a2abe161c360981c7cc3548070913142d3dc3"
+    },
+    {
+      "name": "verification-before-completion",
+      "path": "plugins/superpowers-dev/superpowers/6.3.0/skills/verification-before-completion/SKILL.md",
+      "sha256": "2befe7fc55bcadaa3d97dd9e8efeb633d2561c0ebe74c5a8b17c4d9e7e4520b3"
+    },
+    {
+      "name": "writing-plans",
+      "path": "plugins/superpowers-dev/superpowers/6.3.0/skills/writing-plans/SKILL.md",
+      "sha256": "48508f44bbfd7d24b029fbf3a314f3cd14c9615599059366e922f47b8dc08cf2"
+    },
+    {
+      "name": "writing-skills",
+      "path": "plugins/superpowers-dev/superpowers/6.3.0/skills/writing-skills/SKILL.md",
+      "sha256": "d34db5c8aed6a4e0440132bd0613aace70a693ec7819d5637ad77481d8e10d1b"
+    },
+    {
+      "name": "imagegen",
+      "path": "system/skills/imagegen/SKILL.md",
+      "sha256": "681ddb4ad6d06a2acc78a3535b583f8d0c1ea800ecda3d56370d3310fd2cd4ba"
+    },
+    {
+      "name": "openai-docs",
+      "path": "system/skills/openai-docs/SKILL.md",
+      "sha256": "7cb8fa1b2a0c635b5c61ffe1da7b8594a7ea0fce5b71e8d523e2025d88b2a05e"
+    },
+    {
+      "name": "plugin-creator",
+      "path": "system/skills/plugin-creator/SKILL.md",
+      "sha256": "71b95b8219644f95d633721e7f7cd3c469edfc8fe50f8415d400dfb2d74bc7b9"
+    },
+    {
+      "name": "review-agent",
+      "path": "system/skills/review-agent/SKILL.md",
+      "sha256": "07079efd0dc76f05fade424e5dfb048dce1de2df7626e1a4f56292a4f3f92228"
+    },
+    {
+      "name": "skill-creator",
+      "path": "system/skills/skill-creator/SKILL.md",
+      "sha256": "6656e54755638e8efcf275a472b9672eaa8a9a1b9e59dc210e275b03b59e1e66"
+    },
+    {
+      "name": "skill-installer",
+      "path": "system/skills/skill-installer/SKILL.md",
+      "sha256": "d68b77e5bbb34dedab89d134da52855f140fc4b4299b80104f534e3b9e98f8ee"
+    }
+  ],
+  "excluded_files": [
+    {
+      "source": ".codex/skills/anysearch/.env.example",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/anysearch/.git/HEAD",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/anysearch/.git/config",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/anysearch/.git/config.worktree",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/anysearch/.git/description",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/anysearch/.git/hooks/applypatch-msg.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/anysearch/.git/hooks/commit-msg.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/anysearch/.git/hooks/fsmonitor-watchman.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/anysearch/.git/hooks/post-update.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/anysearch/.git/hooks/pre-applypatch.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/anysearch/.git/hooks/pre-commit.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/anysearch/.git/hooks/pre-merge-commit.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/anysearch/.git/hooks/pre-push.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/anysearch/.git/hooks/pre-rebase.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/anysearch/.git/hooks/pre-receive.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/anysearch/.git/hooks/prepare-commit-msg.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/anysearch/.git/hooks/push-to-checkout.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/anysearch/.git/hooks/sendemail-validate.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/anysearch/.git/hooks/update.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/anysearch/.git/index",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/anysearch/.git/info/exclude",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/anysearch/.git/info/sparse-checkout",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/anysearch/.git/logs/HEAD",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/anysearch/.git/logs/refs/heads/main",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/anysearch/.git/logs/refs/remotes/origin/HEAD",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/anysearch/.git/objects/pack/pack-026d0a4511d9d14a095f6468475c07713c49b924.idx",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/anysearch/.git/objects/pack/pack-026d0a4511d9d14a095f6468475c07713c49b924.pack",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/anysearch/.git/objects/pack/pack-026d0a4511d9d14a095f6468475c07713c49b924.promisor",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/anysearch/.git/objects/pack/pack-026d0a4511d9d14a095f6468475c07713c49b924.rev",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/anysearch/.git/objects/pack/pack-ee700913c63af3c1c75d05eb563ae5e39e248b72.idx",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/anysearch/.git/objects/pack/pack-ee700913c63af3c1c75d05eb563ae5e39e248b72.pack",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/anysearch/.git/objects/pack/pack-ee700913c63af3c1c75d05eb563ae5e39e248b72.promisor",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/anysearch/.git/objects/pack/pack-ee700913c63af3c1c75d05eb563ae5e39e248b72.rev",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/anysearch/.git/packed-refs",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/anysearch/.git/refs/heads/main",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/anysearch/.git/refs/remotes/origin/HEAD",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/anysearch/.git/refs/tags/v3.1.1",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/anysearch/.git/shallow",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/cangjie-skill/.git/HEAD",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/cangjie-skill/.git/config",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/cangjie-skill/.git/config.worktree",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/cangjie-skill/.git/description",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/cangjie-skill/.git/hooks/applypatch-msg.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/cangjie-skill/.git/hooks/commit-msg.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/cangjie-skill/.git/hooks/fsmonitor-watchman.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/cangjie-skill/.git/hooks/post-update.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/cangjie-skill/.git/hooks/pre-applypatch.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/cangjie-skill/.git/hooks/pre-commit.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/cangjie-skill/.git/hooks/pre-merge-commit.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/cangjie-skill/.git/hooks/pre-push.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/cangjie-skill/.git/hooks/pre-rebase.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/cangjie-skill/.git/hooks/pre-receive.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/cangjie-skill/.git/hooks/prepare-commit-msg.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/cangjie-skill/.git/hooks/push-to-checkout.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/cangjie-skill/.git/hooks/sendemail-validate.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/cangjie-skill/.git/hooks/update.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/cangjie-skill/.git/index",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/cangjie-skill/.git/info/exclude",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/cangjie-skill/.git/info/sparse-checkout",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/cangjie-skill/.git/logs/HEAD",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/cangjie-skill/.git/logs/refs/heads/main",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/cangjie-skill/.git/objects/pack/pack-475a2753643ed734fb651a87f9390ad52d9d1231.idx",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/cangjie-skill/.git/objects/pack/pack-475a2753643ed734fb651a87f9390ad52d9d1231.pack",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/cangjie-skill/.git/objects/pack/pack-475a2753643ed734fb651a87f9390ad52d9d1231.promisor",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/cangjie-skill/.git/objects/pack/pack-475a2753643ed734fb651a87f9390ad52d9d1231.rev",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/cangjie-skill/.git/objects/pack/pack-a2a0f0c7a4c543a72b834c8cee0a87d43916334b.idx",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/cangjie-skill/.git/objects/pack/pack-a2a0f0c7a4c543a72b834c8cee0a87d43916334b.pack",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/cangjie-skill/.git/objects/pack/pack-a2a0f0c7a4c543a72b834c8cee0a87d43916334b.promisor",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/cangjie-skill/.git/objects/pack/pack-a2a0f0c7a4c543a72b834c8cee0a87d43916334b.rev",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/cangjie-skill/.git/packed-refs",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/cangjie-skill/.git/refs/heads/main",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/cangjie-skill/.git/shallow",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/claude-skill-web-clone/.git/HEAD",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/claude-skill-web-clone/.git/config",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/claude-skill-web-clone/.git/config.worktree",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/claude-skill-web-clone/.git/description",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/claude-skill-web-clone/.git/hooks/applypatch-msg.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/claude-skill-web-clone/.git/hooks/commit-msg.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/claude-skill-web-clone/.git/hooks/fsmonitor-watchman.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/claude-skill-web-clone/.git/hooks/post-update.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/claude-skill-web-clone/.git/hooks/pre-applypatch.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/claude-skill-web-clone/.git/hooks/pre-commit.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/claude-skill-web-clone/.git/hooks/pre-merge-commit.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/claude-skill-web-clone/.git/hooks/pre-push.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/claude-skill-web-clone/.git/hooks/pre-rebase.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/claude-skill-web-clone/.git/hooks/pre-receive.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/claude-skill-web-clone/.git/hooks/prepare-commit-msg.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/claude-skill-web-clone/.git/hooks/push-to-checkout.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/claude-skill-web-clone/.git/hooks/sendemail-validate.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/claude-skill-web-clone/.git/hooks/update.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/claude-skill-web-clone/.git/index",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/claude-skill-web-clone/.git/info/exclude",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/claude-skill-web-clone/.git/info/sparse-checkout",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/claude-skill-web-clone/.git/logs/HEAD",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/claude-skill-web-clone/.git/logs/refs/heads/main",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/claude-skill-web-clone/.git/objects/pack/pack-492fe740a118eff4b2175f43ec4cfc4c4411d709.idx",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/claude-skill-web-clone/.git/objects/pack/pack-492fe740a118eff4b2175f43ec4cfc4c4411d709.pack",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/claude-skill-web-clone/.git/objects/pack/pack-492fe740a118eff4b2175f43ec4cfc4c4411d709.promisor",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/claude-skill-web-clone/.git/objects/pack/pack-492fe740a118eff4b2175f43ec4cfc4c4411d709.rev",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/claude-skill-web-clone/.git/objects/pack/pack-636044a9d03c7273a897901d97542f8a4872d73e.idx",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/claude-skill-web-clone/.git/objects/pack/pack-636044a9d03c7273a897901d97542f8a4872d73e.pack",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/claude-skill-web-clone/.git/objects/pack/pack-636044a9d03c7273a897901d97542f8a4872d73e.promisor",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/claude-skill-web-clone/.git/objects/pack/pack-636044a9d03c7273a897901d97542f8a4872d73e.rev",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/claude-skill-web-clone/.git/packed-refs",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/claude-skill-web-clone/.git/refs/heads/main",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/claude-skill-web-clone/.git/refs/tags/v1.6.0",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/claude-skill-web-clone/.git/shallow",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/deeptutor/.env.example",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/deeptutor/.git/HEAD",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/deeptutor/.git/config",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/deeptutor/.git/config.worktree",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/deeptutor/.git/description",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/deeptutor/.git/hooks/applypatch-msg.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/deeptutor/.git/hooks/commit-msg.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/deeptutor/.git/hooks/fsmonitor-watchman.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/deeptutor/.git/hooks/post-update.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/deeptutor/.git/hooks/pre-applypatch.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/deeptutor/.git/hooks/pre-commit.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/deeptutor/.git/hooks/pre-merge-commit.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/deeptutor/.git/hooks/pre-push.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/deeptutor/.git/hooks/pre-rebase.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/deeptutor/.git/hooks/pre-receive.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/deeptutor/.git/hooks/prepare-commit-msg.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/deeptutor/.git/hooks/push-to-checkout.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/deeptutor/.git/hooks/sendemail-validate.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/deeptutor/.git/hooks/update.sample",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/deeptutor/.git/index",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/deeptutor/.git/info/exclude",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/deeptutor/.git/info/sparse-checkout",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/deeptutor/.git/logs/HEAD",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/deeptutor/.git/logs/refs/heads/main",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/deeptutor/.git/objects/pack/pack-683cf952b45af1e53f7ec72acb30ab8c929a713d.idx",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/deeptutor/.git/objects/pack/pack-683cf952b45af1e53f7ec72acb30ab8c929a713d.pack",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/deeptutor/.git/objects/pack/pack-683cf952b45af1e53f7ec72acb30ab8c929a713d.promisor",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/deeptutor/.git/objects/pack/pack-683cf952b45af1e53f7ec72acb30ab8c929a713d.rev",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/deeptutor/.git/objects/pack/pack-a8bd32287265ace06a1f8b1f6ab24c8d2c5cc428.idx",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/deeptutor/.git/objects/pack/pack-a8bd32287265ace06a1f8b1f6ab24c8d2c5cc428.pack",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/deeptutor/.git/objects/pack/pack-a8bd32287265ace06a1f8b1f6ab24c8d2c5cc428.promisor",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/deeptutor/.git/objects/pack/pack-a8bd32287265ace06a1f8b1f6ab24c8d2c5cc428.rev",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/deeptutor/.git/packed-refs",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/deeptutor/.git/refs/heads/main",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/deeptutor/.git/refs/tags/v1.5.15",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/deeptutor/.git/shallow",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/deeptutor/.secrets.baseline",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/.env.example",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/__pycache__/attribution_guard.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/__pycache__/compact_svg_coordinates.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/__pycache__/compact_svg_styles.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/__pycache__/config.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/__pycache__/console_encoding.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/__pycache__/hyperlink_contract.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/__pycache__/language_tags.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/__pycache__/native_payloads.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/__pycache__/pptx_animations.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/__pycache__/pptx_effects.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/__pycache__/pptx_embedded_fonts.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/__pycache__/pptx_gradients.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/__pycache__/pptx_opc_validation.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/__pycache__/pptx_transitions.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/__pycache__/pptx_workspace.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/__pycache__/project_utils.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/__pycache__/resource_paths.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/__pycache__/semantic_table.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/__pycache__/slide_roster.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/__pycache__/svg_authoring_contract.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/__pycache__/svg_authoring_view.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/__pycache__/svg_compatibility.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/__pycache__/workflow_transcript.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/pptx_ooxml/__pycache__/__init__.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/pptx_ooxml/__pycache__/analyzer.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/pptx_ooxml/__pycache__/chart_read.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/pptx_ooxml/__pycache__/clone.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/pptx_ooxml/__pycache__/diagram_read.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/pptx_ooxml/__pycache__/edit_safety.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/pptx_ooxml/__pycache__/ooxml.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/pptx_ooxml/__pycache__/package.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/pptx_shapes/__pycache__/__init__.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/pptx_shapes/__pycache__/errors.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/pptx_shapes/__pycache__/formula.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/pptx_shapes/__pycache__/loader.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/pptx_shapes/__pycache__/models.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/pptx_shapes/__pycache__/registry.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/pptx_shapes/__pycache__/semantic_hash.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/pptx_shapes/__pycache__/semantics.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/pptx_shapes/__pycache__/xml_safety.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/pptx_to_svg/__pycache__/__init__.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/pptx_to_svg/__pycache__/emu_units.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/pptx_to_svg/__pycache__/preset_authoring.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/pptx_to_svg/__pycache__/preset_registry_to_svg.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/pptx_to_svg/__pycache__/preset_svg_markup.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/__pycache__/__init__.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/__pycache__/animation_config.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/__pycache__/canvas_contract.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/__pycache__/geometry_properties.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/__pycache__/semantic_markers.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/drawingml/__pycache__/__init__.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/drawingml/__pycache__/context.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/drawingml/__pycache__/converter.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/drawingml/__pycache__/elements.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/drawingml/__pycache__/hyperlinks.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/drawingml/__pycache__/paths.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/drawingml/__pycache__/styles.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/drawingml/__pycache__/text_properties.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/drawingml/__pycache__/theme_colors.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/drawingml/__pycache__/theme_fonts.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/drawingml/__pycache__/utils.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/native_objects/__pycache__/__init__.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/native_objects/__pycache__/chart_data.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/native_objects/__pycache__/chart_style.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/native_objects/__pycache__/chart_xml.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/native_objects/__pycache__/chartex.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/native_objects/__pycache__/fallback_hash.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/native_objects/__pycache__/formula.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/native_objects/__pycache__/formula_ast.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/native_objects/__pycache__/formula_compiler.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/native_objects/__pycache__/formula_omml.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/native_objects/__pycache__/formula_parser.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/native_objects/__pycache__/formula_profile.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/native_objects/__pycache__/formula_run_properties.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/native_objects/__pycache__/inline_formula.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/native_objects/__pycache__/marker_attributes.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/native_objects/__pycache__/marker_common.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/native_objects/__pycache__/marker_status.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/native_objects/__pycache__/table.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/native_objects/__pycache__/workbook.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/pptx_package/__pycache__/__init__.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/pptx_package/__pycache__/builder.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/pptx_package/__pycache__/dimensions.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/pptx_package/__pycache__/media.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/pptx_package/__pycache__/narration.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/pptx_package/__pycache__/notes.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/pptx_package/__pycache__/slide_xml.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/pptx_package/__pycache__/template_structure.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/ppt-master/scripts/svg_to_pptx/pptx_package/__pycache__/template_validation.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/skills/.system/skill-installer/scripts/__pycache__/github_utils.cpython-314.pyc",
+      "reason": "environment/cache/credential exclusion"
+    },
+    {
+      "source": ".codex/plugins/cache/openai-primary-runtime/presentations/26.905.11957/skills/presentations/container_tools/__pycache__/runtime_helpers.cpython-312.pyc",
+      "reason": "environment/cache/credential exclusion"
+    }
+  ],
+  "scope_note": "Plugin entries reflect locally cached skill packages, not a guarantee that every plugin is enabled. Translations and copies for other editors outside canonical plugin skill directories are excluded."
+}

@@ -1,3 +1,16 @@
+# 我的 Skills 备份
+
+最新快照：**2026-09-08**，包含 **509 个 SKILL.md**（个人 99、系统内置 6、插件 404）。
+
+- [下载完整压缩包](https://github.com/qianmuyan001/skills/releases/download/skills-2026-09-08/skills-snapshot-2026-09-08.zip)
+- [查看清单](exports/2026-09-08/SKILLS.md)
+- [恢复方法与范围说明](exports/2026-09-08/README.md)
+- [来源清单](exports/2026-09-08/manifest.json) · [校验值](exports/2026-09-08/SHA256SUMS.txt) · [验证记录](exports/2026-09-08/VERIFICATION.md)
+
+插件内容按本地缓存导出，需要原插件运行环境和账号连接；复制 Skill 文件不能替代安装插件。第三方内容保留各自许可。下方保留原仓库说明。
+
+---
+
 <a href="https://animations.dev/">
 <img width="320" height="168" alt="opengraph-image-pwu6ef" src="https://github.com/user-attachments/assets/a405a37f-1a1a-4e8d-8fd6-269ee6d4fba6" />
 </a>
