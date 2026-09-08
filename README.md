@@ -1,6 +1,6 @@
 # 我的 Skills 备份
 
-最新快照：**2026-09-08**，包含 **509 个 SKILL.md**（个人 99、系统内置 6、插件 404）。
+最新快照：**2026-09-08**，包含 **507 个 SKILL.md**（个人 97、系统内置 6、插件 404）。
 
 - [下载完整压缩包](https://github.com/qianmuyan001/skills/releases/download/skills-2026-09-08/skills-snapshot-2026-09-08.zip)
 - [查看清单](exports/2026-09-08/SKILLS.md)

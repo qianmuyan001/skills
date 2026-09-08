@@ -2,12 +2,12 @@
   "date": "2026-09-08",
   "repository": "qianmuyan001/skills",
   "counts": {
-    "personal": 99,
+    "personal": 97,
     "system": 6,
     "plugins": 404
   },
-  "skill_files": 509,
-  "unique_skill_documents": 503,
+  "skill_files": 507,
+  "unique_skill_documents": 501,
   "bundles": [
     {
       "source": "~/.codex/skills/animate",
@@ -311,13 +311,6 @@
       "sha256": "70bd59064329babad682277d282c86701cf584bb1513d80115a6cd46d90b417e"
     },
     {
-      "source": "~/.codex/skills/official-document-writing",
-      "path": "personal/skills/official-document-writing",
-      "kind": "personal",
-      "duplicate": false,
-      "sha256": "d3c595bbe1fbec77bc2bd6a89028be36190e5b2b3645a9dbfae52c0a956b6fba"
-    },
-    {
       "source": "~/.codex/skills/output-skill",
       "path": "personal/skills/output-skill",
       "kind": "personal",
@@ -330,13 +323,6 @@
       "kind": "personal",
       "duplicate": false,
       "sha256": "7da895857c907a5c7e744664ed0e5692a54aecf2a914a8cef415536a6aa16668"
-    },
-    {
-      "source": "~/.codex/skills/policy-intel-agent",
-      "path": "personal/skills/policy-intel-agent",
-      "kind": "personal",
-      "duplicate": false,
-      "sha256": "52e5c4a10beb6541d7cc8cc490b6a38f8d7397596170b72d52894e944cf2aa8e"
     },
     {
       "source": "~/.codex/skills/ponytail",
@@ -1186,11 +1172,6 @@
       "sha256": "8729ecbc7e5736c1295baaa8ba0384bb4b1aac9cf91b83fcdc64d9548a57bb19"
     },
     {
-      "name": "official-document-writing",
-      "path": "personal/skills/official-document-writing/SKILL.md",
-      "sha256": "4c09e39b94e6581249108c8d6301f155ede509c576442a478256f0bdc132fb5c"
-    },
-    {
       "name": "full-output-enforcement",
       "path": "personal/skills/output-skill/SKILL.md",
       "sha256": "e5bf48b1ae561511439cf71672209a10a88cee0968cc925909ff861dfa0a96a7"
@@ -1199,11 +1180,6 @@
       "name": "pick-ui-library",
       "path": "personal/skills/pick-ui-library/SKILL.md",
       "sha256": "dfbedd8658b316abf195e64af269d95b1c196905b31c40dea259d05d2bd43193"
-    },
-    {
-      "name": "policy-intel-agent",
-      "path": "personal/skills/policy-intel-agent/SKILL.md",
-      "sha256": "71173aba653f605beac5b39bcd41377964c566105666e7bf96c72e1c099f27b0"
     },
     {
       "name": "ponytail",

@@ -1,6 +1,6 @@
 # Skills 清单
 
-共 509 个 SKILL.md：个人 99，系统 6，插件 404。
+共 507 个 SKILL.md：个人 97，系统 6，插件 404。
 
 | 名称 | 文件 |
 | --- | --- |
@@ -54,10 +54,8 @@
 | migrate-to-shoehorn | `personal/skills/migrate-to-shoehorn/SKILL.md` |
 | minimalist-ui | `personal/skills/minimalist-skill/SKILL.md` |
 | motion-design | `personal/skills/motion-design/SKILL.md` |
-| official-document-writing | `personal/skills/official-document-writing/SKILL.md` |
 | full-output-enforcement | `personal/skills/output-skill/SKILL.md` |
 | pick-ui-library | `personal/skills/pick-ui-library/SKILL.md` |
-| policy-intel-agent | `personal/skills/policy-intel-agent/SKILL.md` |
 | ponytail | `personal/skills/ponytail/SKILL.md` |
 | ppt-master | `personal/skills/ppt-master/SKILL.md` |
 | project-delivery-discipline | `personal/skills/project-delivery-discipline/SKILL.md` |
